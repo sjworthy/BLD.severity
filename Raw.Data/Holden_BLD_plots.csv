@@ -1,0 +1,43 @@
+﻿plot_id,date,surveyors,state,county,local name,landowner,latitude,longitude,basal_area,bri_aspect,slope_percent,slope_shape,slope_position,site_remarks
+PB-1,7/2/2025,"Bri, Rosana",OH,Lake,Aborertum/Mike's Plot,Holden,41.6103517,-81.3063583,110,312,6,Convex,Middle,Tree is 315 degrees NW of Mikes plot center.
+BW-1,6/10/2025,"Bri, Rosana",OH,Lake,Bole Woods,Holden,41.611435,-81.29129,110,119,3,Concave,Middle,
+BW-2,6/10/2025,"Bri, Rosana",OH,Lake,Bole Woods,Holden,41.6114383,-81.2905383,140,67,5,Concave,Middle,
+PC-1 ,6/25/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.609095,-81.310405,,305,3,Concave,Middle,No basal area recorded. 
+PC-10,6/16/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.61055667,-81.31145667,110,294,6,Convex,Upper,
+PC-11,6/17/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.6103619,-81.3111625,160,34,1,Flat,Upper,Next to tree #813.
+PC-12,6/18/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.610047,-81.3111793,170,106,4,Flat,Middle,Tree #854
+PC-2,6/25/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.60884833,-81.31055833,,159,5,Convex,Upper,No basal area recorded. 
+PC-3,6/24/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.6096504,-81.3097518,,40,7,Convex,Upper,Tree #981; No basal area recorded. 
+PC-4,6/23/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.609955,-81.31006833,100,317,4,Concave,Middle,Tree #533
+PC-5,6/11/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.61168333,-81.31069833,170,86,2,Convex,Upper,
+PC-6,6/12/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.611225,-81.31095,150,33,5,Convex,Upper,Plot center next to tree #639.
+PC-8,6/12/2025,"Bri, Rosana",OH,Lake,Pierson Creek,Holden,41.61125,-81.31015,110,13,57,Concave,Middle,Next to tree #704.
+PC-9,6/16/2025,"Bri, Rosana, David",OH,Lake,Pierson Creek,Holden,41.61064167,-81.310815,80,37,4,Convex,Upper,Tree #743
+SC-1,7/2/2025,"Bri, Rosana",OH,Lake,Schoop,Holden,41.61198833,-81.31892,140,183,1,Flat,Middle,Tree #2
+SC-10,6/26/2025,"Bri, Rosana",OH,Lake,Schoop,Holden,41.61233333,-81.32329,60,85,1,Flat,Middle,Next to tree #440
+SC-3,7/1/2025,"Bri, Rosana",OH,Lake,Schoop,Holden,41.61254,-81.32043333,100,50,1,Flat,Middle,
+SC-5,7/1/2025,"Bri, Rosana",OH,Lake,Schoop,Holden,41.612185,-81.32080333,90,34,1,Flat,Middle,Tree #243
+SC-7,7/1/2025,"Bri, Rosana",OH,Lake,Schoop,Holden,41.612425,-81.32209833,100,75,4,Flat,Middle,Tree #335
+SC-8,6/27/2025,"Bri, Rosana",OH,Lake,Schoop,Holden,41.61204833,-81.32259,150,48,2,Flat,Upper,Tree #363
+SC-9,6/26/2025,"Bri, Rosana",OH,Lake,Schoop,Holden,41.61237333,-81.322735,120,152,1,Flat,Middle,Tree #935
+SB-1,8/18/2025,"Bri, Rosana, David, Kaylin",OH,Lake,Stebbins,Holden,41.60458833,-81.28622667,90,222,6,Convex,Middle,Red tag SC1-41
+SB-1A,8/7/2025,"Bri, Rosana, David, Tonya, McKenzie",OH,Lake,Stebbins,Holden,41.60553667,-81.27627167,80,335,11,Concave,Lower,Tree #922
+SB-1B,8/8/2025,"Bri, Rosana, David, Tonya, McKenzie",OH,Lake,Stebbins,Holden,41.60525667,-81.275945,90,320,7,Convex,Middle,Tree #931
+SB-2,8/4/2025,"Bri, Rosana",OH,Lake,Stebbins,Holden,41.60188,-81.26927167,140,318,2,Convex,Upper,SB1-41; Tree #511
+SB-2A,8/7/2025,"Bri, Rosana, David, Tonya, McKenzie",OH,Lake,Stebbins,Holden,41.605635,-81.276725,70,294,4,Flat,Middle,
+SB-2B,8/8/2025,"Bri, Rosana, David, Tonya, McKenzie",OH,Lake,Stebbins,Holden,41.60514667,-81.27644667,40,237,12,Convex,Middle,Tree #910
+SB-3A,8/7/2025,"Bri, Rosana, David, Tonya, McKenzie",OH,Lake,Stebbins,Holden,41.60531333,-81.27716667,110,265,6,Flat,Middle,
+SB-3B,8/8/2025,"Bri, Rosana, David, Tonya, McKenzie",OH,Lake,Stebbins,Holden,41.60488333,-81.27678667,80,275,8,Flat,Upper,Tree #889
+C-1,7/8/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.63092167,-81.30677333,70,218,4,Convex,Summit,Tree #965
+C-10,7/10/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.63199167,-81.29686,70,308,5,Flat,Lower,"No soil sample taken for North plot bc in creek, Tree #666"
+C-11,7/10/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.6329262,-81.2966049,120,213,5,Convex,Upper,
+C-12,7/11/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.632825,-81.290965,200,3,209,Flat,Upper,Tree #579
+C-13,7/11/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.631888,-81.291344,90,237,3,Flat,Upper,Tree #595
+C-14,7/16/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.62782667,-81.29294667,110,14,8,Convex,Upper,Tree #451
+C-15,7/17/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.6263138,-81.2895232,180,339,14,Convex,Lower,Tree #639
+C-16,7/15/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.626733,-81.2904717,160,16,6,Flat,Summit,Tree #616
+C-17,7/15/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.6281158,-81.28594,130,261,8,Convex,Upper,Tree #606
+C-2,7/7/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.63015167,-81.30395667,110,37,3,Convex,Upper,Tree #659
+C-3,7/7/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.6308466,-81.3029844,110,229,13,Convex,Middle,"Tree #826; S, E, & W microplots are in a floodplain. Floodplain is a quick dropoff ~5m from plot center"
+C-4,7/8/2025,"Bri, Rosana",OH,Lake,Upper Baldwin,Holden,41.630603,-81.3019292,110,244,4,Concave,Middle,Tree #522
+C-5,7/9/2025,"Bri, Tonya, Rosana",OH,Lake,Upper Baldwin,Holden,41.6305533,-81.3008515,110,166,1,Flat,Middle,Tree #697
