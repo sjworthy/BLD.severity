@@ -1,0 +1,77 @@
+plot_id,date,surveyors,state,county,local name,landowner,latitude,longitude,basal_area,aspect,slope_percent,slope_shape,slope_position,site_remarks
+BP-01,8/30/2024,Bri,PA,Allegheny,Boyce Park,Allegheny County,40.47415,-79.749535,100,304,110,Convex,Middle,No basal area recorded. 
+BP-02,8/30/2024,Bri,PA,Allegheny,Boyce Park,Allegheny County,40.46472667,-79.74357,120,51,12,Flat,Lower,No basal area recorded. 
+BW-1,6/4/2024,Bri & Joe,OH,Lake,Bole Woods,Holden,41.611435,-81.29129,110,119,3,Concave,Middle,
+BW-2,6/4/2024,Bri & Joe,OH,Lake,Bole Woods,Holden,41.6114383,-81.2905383,140,67,5,Concave,Middle,
+C-1,7/11/2024,"Bri, Joe, & Robin",OH,Lake,Upper Baldwin,Holden,41.63092167,-81.30677333,70,218,4,Convex,Summit,Tree #965
+C-10,7/17/2024,"Bri, Kaylin, & Laya",OH,Lake,Upper Baldwin,Holden,41.63199167,-81.29686,70,308,5,Flat,Lower,"No soil sample taken for North plot bc in creek, Tree #666"
+C-11,7/17/2024,"Bri, Kaylin, & Laya",OH,Lake,Upper Baldwin,Holden,41.6329262,-81.2966049,120,213,5,Convex,Upper,
+C-12,7/22/2024,"Bri, Joe, & Laya",OH,Lake,Upper Baldwin,Holden,41.632825,-81.290965,200,3,209,Flat,Upper,Tree #579
+C-13,7/18/2024,"Bri, Robin, & Jo",OH,Lake,Upper Baldwin,Holden,41.632825,81.290965,90,237,3,Flat,Upper,Tree #595
+C-14,7/23/2024,"Bri, Joe, & Anya",OH,Lake,Upper Baldwin,Holden,41.62782667,-81.29294667,110,14,8,Convex,Upper,Tree #451
+C-15,7/19/2024,"Bri, David, & MacKenzie",OH,Lake,Upper Baldwin,Holden,41.6263138,-81.2895232,180,339,14,Convex,Lower,Tree #639
+C-16,7/19/2024,"Bri, David, & MacKenzie",OH,Lake,Upper Baldwin,Holden,41.626733,-81.2904717,160,16,6,Flat,Summit,Tree #616
+C-17,7/19/2024,"Bri, David, & MacKenzie",OH,Lake,Upper Baldwin,Holden,41.6281158,-81.28594,130,261,8,Convex,Upper,Tree #606
+C-2,6/6/2024,Bri & Joe,OH,Lake,Upper Baldwin,Holden,41.63015167,-81.30395667,110,37,3,Convex,Upper,Tree #659
+C-3,6/6/2024,Bri & Joe,OH,Lake,Upper Baldwin,Holden,41.6308466,81.3029844,110,229,13,Convex,Middle,"Tree #826; S, E, & W microplots are in a floodplain. Floodplain is a quick dropoff ~5m from plot center"
+C-4,7/11/2024,"Bri, Joe, & Robin",OH,Lake,Upper Baldwin,Holden,41.630603,-81.3019292,110,244,4,Concave,Middle,Tree #522
+C-5,7/15/2024,Bri & Jo,OH,Lake,Upper Baldwin,Holden,41.6305533,-81.3008515,110,166,1,Flat,Middle,Tree #697
+CC-1,9/17/2024,"Bri, Joe, Emily",OH,Lorain,Chance Creek,Lorain County ,41.36537667,-82.311475,130,272,17,Convex,Upper,
+CC-2,9/17/2024,"Bri, Joe, Emily",OH,Lorain,Chance Creek,Lorain County,41.36574,-82.31185,140,229,2,Flat,Middle,
+DL-01,9/5/2024,Bri & Joe,PA,Allegheny,Deer Lakes Park,Allegheny County,40.61907667,-79.818065,140,186,2,Convex,Middle,No basal area recorded. 
+DL-02,9/5/2024,Bri & Joe,PA,Allegheny,Deer Lakes Park,Allegheny County,40.61717,-79.81747667,100,349,8,Flat,Middle,No basal area recorded. 
+GW-1,6/10/2024,Bri & Joe,OH,Fulton,Goll Woods,Ohio DNR,41.552335,-84.36059833,120,22,1,Flat,Lower,
+HA-01,9/4/2024,Bri & Joe,PA,Allegheny,Hartwood Acres Park,Allegheny County,40.57224,-79.911905,90,292,8,Flat,Middle,"Large carving in tree, ""KRD"""
+HA-02,9/4/2024,Bri & Joe,PA,Allegheny,Hartwood Acres Park,Allegheny County,40.56622833,-79.92155667,90,289,6,Convex,Middle,
+HA-03,9/4/2024,Bri & Joe,PA,Allegheny,Hartwood Acres Park,Allegheny County,40.57028167,-79.91906,100,305,5,Flat,Lower,"Large carving in tree, ""KRD"""
+HH-01,9/5/2024,Bri & Joe,PA,Allegheny,Harrison Hills Park,Allegheny County,40.648755,-79.69381167,110,30,32,Convex,Lower,No basal area recorded. 
+HR-1,8/21/2024,"Bri, Joe, Jessie, & Bethany",OH,Portage,Hiram Biological Field Station,,41.30341833,-81.11907167,100,204,13,Convex,Middle,
+HR-2 ,8/21/2024,"Bri, Joe, Jessie, & Bethany",OH,Portage,Hiram Biological Field Station,,41.30309333,-81.12057667,140,238,4,Convex,Upper,
+NP-01,9/3/2024,Bri & Joe,PA,Allegheny,North Park,Allegheny County,40.58056667,-79.98019833,100,221,10,Other,Lower,"No basal area recorded. Point on the map shows it's not part of park property, but it is. "
+NP-02,9/3/2024,Bri & Joe,PA,Allegheny,North Park,Allegheny County,40.61664833,-80.01230667,150,298,12,Flat,Upper,No basal area recorded. 
+NP-03,9/3/2024,Bri & Joe,PA,Allegheny,North Park,Allegheny County,40.61717333,-80.01276167,110,310,14,Convex,Middle,No basal area recorded. 
+PB-1,7/15/2024,Bri & Joe,OH,Lake,Aborertum/Mike's Plot,Holden,41.6103517,-81.3063583,110,312,6,Convex,Middle,Tree is 315 degrees NW of Mikes plot center.
+PC-1 ,6/18/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.609095,-81.310405,,305,3,Concave,Middle,No basal area recorded. 
+PC-10,6/18/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.61055667,-81.31145667,110,294,6,Convex,Upper,
+PC-11,6/17/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.6103619,-81.3111625,160,34,1,Flat,Upper,Next to tree #813.
+PC-12,6/17/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.610047,81.3111793,170,106,4,Flat,Middle,Tree #854
+PC-2,6/18/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.60884833,-81.31055833,,159,5,Convex,Upper,No basal area recorded. 
+PC-3,6/5/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.6096504,-81.3097518,,40,7,Convex,Upper,Tree #981; No basal area recorded. 
+PC-4,6/12/2024,"Bri, Joe & Jo",OH,Lake,Pierson Creek,Holden,41.609955,-81.31006833,100,317,4,Concave,Middle,Tree #533
+PC-5,6/25/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.61168333,-81.31069833,170,86,2,Convex,Upper,
+PC-6,6/24/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.611225,-81.31095,150,33,5,Convex,Upper,Plot center next to tree #639.
+PC-8,6/24/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.61125,-81.31015,110,13,57,Concave,Middle,Next to tree #704.
+PC-9,6/24/2024,Bri & Joe,OH,Lake,Pierson Creek,Holden,41.61064167,-81.310815,80,37,4,Convex,Upper,Tree #743
+RH-1,8/23/2024,Bri,PA,Allegheny,Roundhill Park,County,40.24673167,-79.85237167,170,291,5,Flat,Upper,
+SB-1,7/25/2024,"Bri, Joe, & Robin",OH,Lake,Stebbins,Holden,41.60458833,-81.28622667,90,222,6,Convex,Middle,Red tag SC1-41
+SB-1A,7/26/2024,"Bri, Joe, Kaylin, David, Georgia & Jo",OH,Lake,Stebbins,Holden,41.60553667,-81.27627167,80,335,11,Concave,Lower,Tree #922
+SB-1B,7/26/2024,"Bri, Joe, Kaylin, David, Georgia & Jo",OH,Lake,Stebbins,Holden,41.60525667,-81.275945,90,320,7,Convex,Middle,Tree #931
+SB-2,8/16/2024,"Bri, Joe, David & Robin",OH,Lake,Stebbins,Holden,41.60188,-81.26927167,140,318,2,Convex,Upper,SB1-41; Tree #511
+SB-2A,7/26/2024,"Bri, Joe, Kaylin, David, Georgia & Jo",OH,Lake,Stebbins,Holden,41.605635,-81.276725,70,294,4,Flat,Middle,
+SB-2B,7/26/2024,"Bri, Joe, Kaylin, David, Georgia & Jo",OH,Lake,Stebbins,Holden,41.60514667,-81.27644667,40,237,12,Convex,Middle,Tree #910
+SB-3A,7/26/2024,"Bri, Joe, Kaylin, David, Georgia & Jo",OH,Lake,Stebbins,Holden,41.60531333,-81.27716667,110,265,6,Flat,Middle,
+SB-3B,7/26/2024,"Bri, Joe, Kaylin, David, Georgia & Jo",OH,Lake,Stebbins,Holden,41.60488333,-81.27678667,80,275,8,Flat,Upper,Tree #889
+SC-1,6/25/2024,Bri & Joe,OH,Lake,Schoop,Holden,41.61198833,-81.31892,140,183,1,Flat,Middle,Tree #2
+SC-10,7/9/2024,Bri & Joe,OH,Lake,Schoop,Holden,41.61233333,-81.32329,60,85,1,Flat,Middle,Next to tree #440
+SC-3,6/25/2024,Bri ,OH,Lake,Schoop,Holden,41.61254,-81.32043333,100,50,1,Flat,Middle,
+SC-5,6/28/2024,"Bri, Joe, David & Mackenzie",OH,Lake,Schoop,Holden,41.612185,-81.32080333,90,34,1,Flat,Middle,Tree #243
+SC-7,7/5/2024,"Joe, Jo, Georgia & Mackenzie",OH,Lake,Schoop,Holden,41.612425,-81.32209833,100,75,4,Flat,Middle,Tree #335
+SC-8,7/9/2024,Bri & Joe,OH,Lake,Schoop,Holden,41.61204833,-81.32259,150,48,2,Flat,Upper,Tree #363
+SC-9,7/9/2024,Bri & Joe,OH,Lake,Schoop,Holden,41.61237333,-81.322735,120,152,1,Flat,Middle,Tree #935
+SP-1,9/6/2024,Bri,PA,Allegheny,Southpark,County,40.32632,-80.003915,130,269,6,Flat,Middle,
+SP-2,9/6/2024,Bri,PA,Allegheny,Southpark,County,40.3277879,-80.00606096,100,264,6,Flat,Middle,
+SP-3,9/6/2024,Bri,PA,Allegheny,Southpark,County,40.32618167,-80.00493167,80,225,11,Convex,Middle,No basal area recorded; RAINY DAY
+SV-1,8/6/2024,"Bri, Joe, Kaylin & Jo",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.49930167,-81.42102,150,156,1,Flat,Middle,Tree #2425
+SV-10,7/31/2024,"Bri, Joe, Georgia & Anya",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.49853,-81.42069167,150,133,2,Flat ,Middle,
+SV-11,7/31/2024,"Bri, Joe, Georgia & Anya",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.4980267,-81.4203767,180,104,1,Flat ,Upper,Tree #2867
+SV-12,7/31/2024,"Bri, Joe, Georgia & Anya",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.49805833,-81.42010833,110,114,2,Flat ,Upper,Tree #2884
+SV-2,8/6/2024,"Bri, Jo, Joe & Kaylin",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.499515,-81.42085333,90,146,1,Flat,Middle,Tree #2468
+SV-3,8/6/2024,"Bri, Joe, Kaylin & Jo",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.49963,-81.42043,110,64,1,Flat ,Middle,Tree #2501
+SV-4,8/13/2024,"Bri, Joe, David & Georgia",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.49982167,-81.420045,70,39,2,Flat ,Middle,Tree #2579
+SV-5,8/13/2024,"Bri, Joe, David & Georgia",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.4999816,-81.4211044,110,34,1,Flat ,Middle,Tree #2595
+SV-6,8/13/2024,"Bri, Joe, David & Georgia",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.50017833,-81.421015,130,90,0,Flat,Middle,Tree #2655
+SV-7,8/13/2024,"Bri, Joe, David & Georgia",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.49978333,-81.42161333,90,217,0,Flat ,Middle,Tree #2749
+SV-8,8/13/2024,"Bri, Joe, David & Georgia",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.50019667,-81.42168333,140,6,2,Flat ,Middle,Near tree #2696
+SV-9,7/31/2024,"Bri, Joe, Georgia & Anya",OH,Cuyahoga,Squire Valley,Case Western Reserve,41.4985217,-81.42023,110,112,2,Flat ,Middle,Tree #2767
+WVHA-01,8/5/2024,"Bri, David & Kaylin",WV,Hancock,Tomlinson Run SP,State,40.5450361,-80.6011173,90,244,5,Flat ,Middle,
+WVHA-02,8/5/2024,"Bri, David & Kaylin",WV,Hancock,Tomlinson Run SP,State,40.54529833,-80.60145167,80,230,30,Convex,Upper ,

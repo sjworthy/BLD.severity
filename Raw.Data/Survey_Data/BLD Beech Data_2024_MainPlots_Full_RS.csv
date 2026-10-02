@@ -1,0 +1,870 @@
+plot_type,plot_id,date,treatment,species,dbh,crown_class,leaf_density,overall_dieback,cover_class_main,main_position,cover_class_fine,fine_position,percent_bld,dominant_symptom_expression,comments
+Main,BP-1,2024,,ACSA3,21.2,S,5,3,,,,,,,
+Main,BP-1,2024,,ACSA3,18.3,S,5,4,,,,,,,
+Main,BP-1,2024,,ACSA3,32.1,S,5,4,,,,,,,
+Main,BP-1,2024,,ACSA3,22.3,S,5,3,,,,,,,
+Main,BP-1,2024,,ACSA3,14,S,5,3,,,,,,,
+Main,BP-1,2024,,ACSA3,44.2,I,6,2,,,,,,,
+Main,BP-1,2024,,FAGR,37.9,C,6,3,2,2,3,2,0,0,epicormic branching
+Main,BP-1,2024,,FAGR,13.8,S,6,2,1,3,2,3,0,0,
+Main,BP-1,2024,,FAGR,19.9,S,6,2,1,3,2,3,0,0,
+Main,BP-1,2024,,FAGR,27.3,I,6,2,1,3,2,3,0,0,
+Main,BP-1,2024,,LITU,85.5,D,6,3,,,,,,,
+Main,BP-1,2024,,QURU,63.2,C,5,4,,,,,,,
+Main,BP-1,2024,,QURU,59.8,C,5,3,,,,,,,
+Main,BP-1,2024,,QURU,46.2,C,6,3,,,,,,,
+Main,BP-1,2024,,QURU,69,D,6,3,,,,,,,
+Main,BP-1,2024,,SNAG,23.8,,,7,,,,,,,
+Main,BP-2,2024,,ACRU,15.9,S,4,4,,,,,,,
+Main,BP-2,2024,,ACSA3,18.9,S,6,3,,,,,,,
+Main,BP-2,2024,,ACSA3,46.5,C,5,3,,,,,,,
+Main,BP-2,2024,,ACSA3,29.7,I,5,4,,,,,,,
+Main,BP-2,2024,,ACSA3,41.9,I,6,2,,,,,,,
+Main,BP-2,2024,,FAGR,50.9,I,6,2,1,3,2,3,0,0,
+Main,BP-2,2024,,FAGR,49.3,C,6,2,1,3,2,3,0,0,lots of carvings
+Main,BP-2,2024,,LITU,61.3,D,6,2,,,,,,,
+Main,BP-2,2024,,PRSE2,44,C,5,3,,,,,,,
+Main,BP-2,2024,,PRSE2,38.7,C,6,2,,,,,,,
+Main,BW-1,2024,,ACSA3,66.8,D,5,3,,,,,,,
+Main,BW-1,2024,,ACSA3,16.8,S,6,1,,,,,,,
+Main,BW-1,2024,,ACSA3,22.8,I,6,2,,,,,,,
+Main,BW-1,2024,,ACSA3,32.1,C,6,2,,,,,,,
+Main,BW-1,2024,,ACSA3,26.4,C,6,1,,,,,,,
+Main,BW-1,2024,,ACSA3,20.3,I,5,2,,,,,,,
+Main,BW-1,2024,,ACSA3,29,C,6,1,,,,,,,
+Main,BW-1,2024,,ACSA3,42.9,C,5,2,,,,,,,
+Main,BW-1,2024,,ACSA3,23.4,I,6,1,,,,,,,
+Main,BW-1,2024,,ACSA3,21.7,S,5,2,,,,,,,
+Main,BW-1,2024,,FAGR,28.4,C,5,3,3,1,3,1,3,3,
+Main,BW-1,2024,,FAGR,14.9,S,3,6,4,2,5,3,3,4,Aphids and Mites
+Main,BW-1,2024,,MAAL5,22.2,C,6,2,,,,,,,
+Main,BW-2,2024,,ACSA3,30.9,C,6,2,,,,,,,
+Main,BW-2,2024,,ACSA3,25.8,C,6,2,,,,,,,
+Main,BW-2,2024,,ACSA3,20.7,C,6,2,,,,,,,
+Main,BW-2,2024,,ACSA3,25,C,6,2,,,,,,,
+Main,BW-2,2024,,ACSA3,17.7,C,6,1,,,,,,,
+Main,BW-2,2024,,ACSA3,17,C,5,3,,,,,,,
+Main,BW-2,2024,,ACSA3,18.8,I,6,2,,,,,,,
+Main,BW-2,2024,,ACSA3,15,S,6,2,,,,,,,
+Main,BW-2,2024,,ACSA3,25.2,C,5,3,,,,,,,
+Main,BW-2,2024,,ACSA3,22.8,C,6,2,,,,,,,
+Main,BW-2,2024,,FAGR,16,I,6,3,2,2,2,3,3,3,Center Tree
+Main,BW-2,2024,,FAGR,13.6,I,5,3,2,1,6,3,3,4,
+Main,BW-2,2024,,FAGR,20.8,I,4,4,4,1,4,3,3,2,
+Main,BW-2,2024,,FAGR,13.3,I,4,5,4,2,4,3,4,3,
+Main,BW-2,2024,,FAGR,14.4,S,4,5,5,2,3,3,3,3,
+Main,C-1,2024,,ACSA3,13.3,S,6,2,,,,,,,lots of vitis
+Main,C-1,2024,,ACSA3,14.7,S,6,3,,,,,,,lots of vitis
+Main,C-1,2024,,FAGR,36.9,I,5,3,3,3,4,3,3,4,#965
+Main,C-1,2024,,FAGR,15.3,S,4,4,2,1,4,3,3,4,Smothered by grape
+Main,C-1,2024,,FAGR,23.9,I,4,4,4,3,4,3,4,4,
+Main,C-1,2024,,FAGR,66.8,C,5,3,2,1,3,3,3,4,
+Main,C-1,2024,,FAGR,25.7,C,4,5,5,1,5,3,4,4,
+Main,C-1,2024,,FAGR,15.1,S,5,3,2,1,3,3,3,2,
+Main,C-1,2024,,FAGR,33.8,C,6,3,1,3,3,3,2,2,
+Main,C-1,2024,,LITU,87.6,D,6,3,,,,,,,lots of vitis
+Main,C-1,2024,,QURU,27.2,I,6,2,,,,,,,lots of vitis
+Main,C-1,2024,,SNAG,15.2,,,7,,,,,,,
+Main,C-1,2024,,TSCA,35.6,I,6,3,,,,,,,lots of vitis
+Main,C-1,2024,,TSCA,17,S,5,3,,,,,,,
+Main,C-10,2024,,ACRU,23.5,S,6,2,,,,,,,
+Main,C-10,2024,,ACSA3,13.3,S,6,2,,,,,,,
+Main,C-10,2024,,ACSA3,14.2,I,6,2,,,,,,,
+Main,C-10,2024,,ACSA3,21.4,S,6,2,,,,,,,
+Main,C-10,2024,,ACSA3,14.4,S,4,4,,,,,,,
+Main,C-10,2024,,CARYA,63.8,C,6,2,,,,,,,
+Main,C-10,2024,,CARYA,47.5,C,6,2,,,,,,,
+Main,C-10,2024,,FAGR,55.4,C,6,2,2,1,2,3,3,2,#666
+Main,C-10,2024,,OSVI,17.9,S,6,2,,,,,,,
+Main,C-10,2024,,PLOC,58.3,C,6,2,,,,,,,
+Main,C-10,2024,,SNAG,18.6,,,8,,,,,,,
+Main,C-11,2024,,ACSA3,65.9,C,6,2,,,,,,,
+Main,C-11,2024,,ACSA3,13.6,S,6,2,,,,,,,
+Main,C-11,2024,,ACSA3,27.3,I,6,2,,,,,,,
+Main,C-11,2024,,ACSA3,76.1,C,6,2,,,,,,,
+Main,C-11,2024,,FAGR,22.1,S,6,2,2,1,2,3,1,1,#407
+Main,C-11,2024,,FAGR,81.6,C,6,3,3,1,2,3,1,1,
+Main,C-11,2024,,FAGR,23.1,I,6,3,1,3,3,3,1,2,
+Main,C-11,2024,,FAGR,44.5,C,5,3,1,3,3,3,2,2,
+Main,C-11,2024,,LITU,34.7,S,6,2,,,,,,,"TOP MISSING, SPROUTING AT BOTTOM"
+Main,C-11,2024,,LITU,20.6,S,6,3,,,,,,,
+Main,C-11,2024,,SNAG,49.4,,,8,,,,,,,
+Main,C-12,2024,,ACSA3,17.2,S,6,2,,,,,,,Covered in Vitis
+Main,C-12,2024,,CARYA,38.7,C,6,2,,,,,,,
+Main,C-12,2024,,FAGR,34.9,I,5,3,2,1,3,3,2,3,#579
+Main,C-12,2024,,FAGR,19.1,S,5,3,2,3,3,3,2,2,Has Vitis
+Main,C-12,2024,,PRSE2,36,C,6,2,,,,,,,Covered in Vitis
+Main,C-12,2024,,PRSE2,25.5,S,6,3,,,,,,,Covered in Vitis
+Main,C-12,2024,,PRSE2,43.7,C,6,3,,,,,,,Has Vitis
+Main,C-12,2024,,PRSE2,36.2,C,5,3,,,,,,,
+Main,C-12,2024,,PRSE2,37.3,C,5,3,,,,,,,
+Main,C-12,2024,,PRSE2,44.8,C,6,3,,,,,,,Covered in Vitis
+Main,C-12,2024,,PRSE2,31.9,C,5,3,,,,,,,Covered in Vitis
+Main,C-12,2024,,PRSE2,48.5,C,6,3,,,,,,,
+Main,C-12,2024,,PRSE2,26.6,S,5,3,,,,,,,
+Main,C-12,2024,,PRSE2,48.9,C,6,2,,,,,,,
+Main,C-12,2024,,PRSE2,44.1,C,5,3,,,,,,,
+Main,C-12,2024,,SNAG,26.9,,,8,,,,,,,
+Main,C-12,2024,,SNAG,12.8,,,8,,,,,,,
+Main,C-12,2024,,SNAG,19,,,7,,,,,,,
+Main,C-12,2024,,SNAG,23.8,,,8,,,,,,,Covered in Vitis
+Main,C-12,2024,,SNAG,20.7,,,8,,,,,,,
+Main,C-13,2024,,ACRU,22.8,I,5,3,,,,,,,
+Main,C-13,2024,,ACSA3,52.8,C,6,2,,,,,,,
+Main,C-13,2024,,CARYA,59,D,6,3,,,,,,,
+Main,C-13,2024,,FAGR,35,C,5,4,3,3,4,3,4,3,#595
+Main,C-13,2024,,FAGR,40.1,C,5,3,2,1,3,3,3,3,
+Main,C-13,2024,,FAGR,16,I,5,3,3,3,4,3,2,2,
+Main,C-13,2024,,FAGR,14.4,S,6,2,1,3,2,3,4,4,
+Main,C-13,2024,,FAGR,17,S,4,4,2,3,4,3,4,4,Vitis throughout tree
+Main,C-13,2024,,FAGR,26.6,C,6,3,2,1,2,3,4,3,
+Main,C-13,2024,,FAGR,39.4,C,5,4,3,1,4,3,4,4,
+Main,C-13,2024,,OSVI,19.6,I,6,2,,,,,,,
+Main,C-13,2024,,OSVI,18.8,I,6,2,,,,,,,
+Main,C-13,2024,,SNAG,19.2,,,7,,,,,,,
+Main,C-13,2024,,SNAG,15.9,,,8,,,,,,,
+Main,C-14,2024,,ACSA3,45.1,C,6,2,,,,,,,
+Main,C-14,2024,,ACSA3,14.3,S,6,3,,,,,,,
+Main,C-14,2024,,ACSA3,13.1,S,6,2,,,,,,,
+Main,C-14,2024,,CARYA,13.6,S,6,2,,,,,,,
+Main,C-14,2024,,CARYA,40.5,D,6,2,,,,,,,
+Main,C-14,2024,,FAGR,24.9,S,5,3,2,3,3,3,3,2,"#451, Vitis throughout tree"
+Main,C-14,2024,,FAGR,30.5,C,5,3,2,1,3,3,2,1,
+Main,C-14,2024,,FAGR,37.5,C,6,2,2,3,2,3,2,2,
+Main,C-14,2024,,FAGR,22.4,S,5,4,1,3,4,3,3,3,
+Main,C-14,2024,,FAGR,23.5,S,3,5,4,1,5,1,2,2,
+Main,C-14,2024,,FAGR,28.5,C,5,4,3,3,4,3,3,3,
+Main,C-14,2024,,FAGR,25.6,C,5,4,2,3,4,3,4,2,
+Main,C-14,2024,,FAGR,32.4,C,5,3,2,3,3,3,3,2,
+Main,C-14,2024,,FAGR,38,C,6,3,2,1,3,3,3,2,
+Main,C-14,2024,,FAGR,29.3,C,5,3,2,1,3,3,3,2,
+Main,C-14,2024,,FAGR,33.8,C,5,3,2,3,3,3,4,3,
+Main,C-14,2024,,QUAL,71.4,D,6,3,,,,,,,
+Main,C-14,2024,,QUAL,24.2,S,6,2,,,,,,,
+Main,C-14,2024,,QURU,21.5,I,6,3,,,,,,,
+Main,C-14,2024,,QURU,31.9,C,6,2,,,,,,,
+Main,C-14,2024,,SNAG,31.7,,,8,,,,,,,
+Main,C-14,2024,,TIAM,36,I,6,2,,,,,,,
+Main,C-15,2024,,ACSA3,35.4,S,6,2,,,,,,,
+Main,C-15,2024,,CARYA,no data,no data,no data,no data,,,,,,,
+Main,C-15,2024,,FAGR,21.9,S,3,5,4,3,5,3,4,3,#639. TREE LOOKS BAD
+Main,C-15,2024,,FAGR,16.7,S,3,6,4,3,6,3,4,4,
+Main,C-15,2024,,FAGR,27.4,S,4,4,3,3,4,3,3,3,
+Main,C-15,2024,,FAGR,23.5,S,3,5,4,3,5,3,4,2,
+Main,C-15,2024,,FAGR,50.4,S,4,4,3,1,4,3,3,4,
+Main,C-15,2024,,LITU,77.6,C,5,3,,,,,,,
+Main,C-15,2024,,QURU,106.4,D,5,4,,,,,,,
+Main,C-15,2024,,QURU,40.9,C,6,2,,,,,,,
+Main,C-15,2024,,QURU,50.7,C,6,3,,,,,,,
+Main,C-15,2024,,QURU,55.8,C,6,3,,,,,,,
+Main,C-15,2024,,QURU,16.8,S,6,2,,,,,,,
+Main,C-15,2024,,QURU,62.9,D,6,3,,,,,,,
+Main,C-15,2024,,QURU,61.2,C,6,2,,,,,,,
+Main,C-15,2024,,SNAG,13.2,,,7,,,,,,,
+Main,C-16,2024,,ACRU,23.8,I,5,3,,,,,,,
+Main,C-16,2024,,ACSA3,15.6,S,6,2,,,,,,,
+Main,C-16,2024,,ACSA3,13.8,S,5,4,,,,,,,
+Main,C-16,2024,,ACSA3,19.4,S,6,2,,,,,,,
+Main,C-16,2024,,FAGR,26.9,I,6,2,1,3,2,3,1,2,#616
+Main,C-16,2024,,FAGR,31.8,I,5,3,2,1,3,3,2,2,
+Main,C-16,2024,,FAGR,17.8,S,5,4,3,3,4,3,3,4,
+Main,C-16,2024,,PRSE2,44.4,I,4,4,,,,,,,
+Main,C-16,2024,,QURU,18.5,S,5,3,,,,,,,
+Main,C-16,2024,,QURU,42.8,C,6,3,,,,,,,
+Main,C-16,2024,,QURU,39,C,6,2,,,,,,,
+Main,C-16,2024,,QURU,59.6,C,6,2,,,,,,,
+Main,C-16,2024,,QURU,21.3,S,5,3,,,,,,,
+Main,C-16,2024,,QURU,56.8,D,5,3,,,,,,,
+Main,C-16,2024,,QURU,29.6,I,6,2,,,,,,,
+Main,C-16,2024,,QURU,49.5,C,5,3,,,,,,,
+Main,C-16,2024,,QURU,47,C,6,3,,,,,,,
+Main,C-16,2024,,QURU,67.1,D,6,2,,,,,,,
+Main,C-17,2024,,ACSA3,28.1,S,6,2,,,,,,,
+Main,C-17,2024,,ACSA3,16,S,6,2,,,,,,,
+Main,C-17,2024,,ACSA3,37.9,C,6,2,,,,,,,
+Main,C-17,2024,,FAGR,31.1,C,5,4,3,1,3,3,3,3,#606
+Main,C-17,2024,,FAGR,48.7,C,5,3,2,1,3,3,2,3,LOTS OF WHITE SPECKS. TOP VERY HEALTHY
+Main,C-17,2024,,FAGR,53.3,C,6,3,2,1,3,3,2,2,
+Main,C-17,2024,,FAGR,41.3,C,6,2,1,3,2,3,2,2,BOTTOM OF TRUNK ROTTING 
+Main,C-17,2024,,FAGR,15.9,S,5,4,2,1,4,3,3,2,
+Main,C-17,2024,,FAGR,16.2,I,6,3,2,1,3,3,3,3,
+Main,C-17,2024,,FAGR,15.2,S,5,3,3,3,3,3,4,4,
+Main,C-17,2024,,OSVI,22.9,C,6,2,,,,,,,
+Main,C-17,2024,,QURU,13,S,6,3,,,,,,,
+Main,C-17,2024,,QURU,94.1,D,5,3,,,,,,,
+Main,C-17,2024,,SAAL5,44.3,C,6,2,,,,,,,
+Main,C-17,2024,,TIAM,16.6,S,6,2,,,,,,,
+Main,C-2,2024,,ACSA3,35.3,I,6,2,,,,,,,
+Main,C-2,2024,,ACSA3,29.9,I,6,3,,,,,,,
+Main,C-2,2024,,ACSA3,24.3,I,6,3,,,,,,,
+Main,C-2,2024,,ACSA3,21.4,I,5,3,,,,,,,
+Main,C-2,2024,,ACSA3,20.6,I,6,1,,,,,,,
+Main,C-2,2024,,ACSA3,26.8,S,6,3,,,,,,,
+Main,C-2,2024,,ACSA3,22.1,S,6,2,,,,,,,
+Main,C-2,2024,,FAGR,24.2,S,4,4,4,3,5,3,3,4,#659
+Main,C-2,2024,,FAGR,23.5,I,5,4,3,2,5,3,2,4,
+Main,C-2,2024,,FAGR,22.2,S,2,6,6,3,6,3,1,2,Almost dead
+Main,C-2,2024,,FAGR,64.3,C,6,2,2,1,2,3,1,3,Very healthy
+Main,C-3,2024,,ACRU,25.8,C,6,2,,,,,,,
+Main,C-3,2024,,ACSA3,20.9,S,6,1,,,,,,,
+Main,C-3,2024,,ACSA3,19.8,S,6,1,,,,,,,
+Main,C-3,2024,,ACSA3,12.9,S,6,1,,,,,,,
+Main,C-3,2024,,ACSA3,13.7,S,6,1,,,,,,,
+Main,C-3,2024,,ACSA3,17.2,S,6,2,,,,,,,
+Main,C-3,2024,,FAGR,49.7,C,3,5,4,3,3,3,4,4,"#826, TAG MISSING"
+Main,C-3,2024,,FAGR,14,I,3,5,5,3,3,3,3,3,
+Main,C-3,2024,,FAGR,33.1,C,5,3,3,3,5,3,3,3,
+Main,C-3,2024,,LITU,107.7,D,6,2,,,,,,,
+Main,C-3,2024,,SNAG,16,,,8,,,,,,,
+Main,C-3,2024,,TSCA,17.8,S,4,4,,,,,,,
+Main,C-3,2024,,TSCA,25.1,S,4,4,,,,,,,
+Main,C-3,2024,,TSCA,13.7,S,5,3,,,,,,,
+Main,C-3,2024,,TSCA,41.4,C,5,3,,,,,,,
+Main,C-3,2024,,TSCA,16.3,S,5,3,,,,,,,
+Main,C-3,2024,,TSCA,14.8,S,5,3,,,,,,,
+Main,C-4,2024,,ACSA3,41,C,6,2,,,,,,,#523
+Main,C-4,2024,,ACSA3,56.3,C,6,2,,,,,,,#833
+Main,C-4,2024,,FAGR,38.4,C,5,3,3,1,3,3,2,4,#522
+Main,C-4,2024,,FAGR,23.9,S,5,3,1,3,3,3,3,3,
+Main,C-4,2024,,FAGR,16.4,S,4,4,2,1,4,3,4,3,top broken off
+Main,C-4,2024,,FAGR,20,S,3,5,5,3,5,3,3,2,
+Main,C-4,2024,,FAGR,21.6,I,4,4,3,1,4,3,2,4,
+Main,C-4,2024,,SNAG,12.9,,,8,,,,,,,
+Main,C-4,2024,,TSCA,15.7,S,5,3,,,,,,,
+Main,C-5,2024,,ACSA3,72,C,5,4,,,,,,,
+Main,C-5,2024,,ACSA3,18.7,I,6,2,,,,,,,
+Main,C-5,2024,,ACSA3,21.4,S,6,3,,,,,,,Measured below hole
+Main,C-5,2024,,FAGR,35.5,C,4,4,3,1,3,3,3,2,#697
+Main,C-5,2024,,FAGR,52.3,C,6,3,2,1,3,3,3,1,
+Main,C-5,2024,,TSCA,33.8,S,5,4,,,,,,,
+Main,C-5,2024,,TSCA,77.1,C,4,4,,,,,,,
+Main,C-5,2024,,ULRU,17.1,S,6,2,,,,,,,Weird bark - Fungal disease?
+Main,CC-1,2024,,ACSA3,15.1,S,6,2,,,,,,,
+Main,CC-1,2024,,ACSA3,25,I,6,2,,,,,,,
+Main,CC-1,2024,,FAGR,50.7,C,6,2,2,1,2,3,0,0,Vitis on the tree
+Main,CC-1,2024,,FAGR,43.1,I,6,2,1,3,2,3,0,0,leaf curling aphid
+Main,CC-1,2024,,FAGR,16.9,S,5,4,3,3,3,3,0,0,
+Main,CC-1,2024,,FAGR,28.7,I,6,2,2,1,2,3,0,0,
+Main,CC-1,2024,,FAGR,37.2,I,6,3,2,2,2,3,0,0,Vitis on the tree
+Main,CC-1,2024,,QUAL,52.9,C,6,3,,,,,,,
+Main,CC-1,2024,,QURU,79.3,C,5,4,,,,,,,
+Main,CC-1,2024,,SNAG,48.9,,0,8,,,,,,,
+Main,CC-1,2024,,SNAG,14.1,,0,8,,,,,,,
+Main,CC-2,2024,,ACRU,72.9,C,6,2,,,,,,,
+Main,CC-2,2024,,FAGR,36.1,S,6,2,2,1,2,3,1,1,beech blight aphid
+Main,CC-2,2024,,LITU,76,D,6,2,,,,,,,Tag #5-445
+Main,CC-2,2024,,QURU,83.2,D,6,3,,,,,,,
+Main,CC-2,2024,,SAAL5,48,I,6,3,,,,,,,Tag #528
+Main,DL-1,2024,,ACRU,21.3,I,6,2,,,,,,,slightly above breast height
+Main,DL-1,2024,,ACRU,28.5,I,6,2,,,,,,,
+Main,DL-1,2024,,ACRU,37.7,C,6,2,,,,,,,
+Main,DL-1,2024,,FAGR,40.6,C,5,3,2,3,2,3,0,0,
+Main,DL-1,2024,,OSVI,18.8,S,6,3,,,,,,,
+Main,DL-1,2024,,OSVI,14.1,S,6,2,,,,,,,
+Main,DL-1,2024,,PRSE2,39.2,C,5,4,,,,,,,
+Main,DL-1,2024,,PRSE2,30.9,I,5,4,,,,,,,
+Main,DL-1,2024,,PRSE2,37.1,C,3,5,,,,,,,
+Main,DL-1,2024,,QUAL,52.5,C,6,2,,,,,,,
+Main,DL-1,2024,,QUAL,30.2,S,6,2,,,,,,,
+Main,DL-1,2024,,QURU,61.2,C,6,3,,,,,,,
+Main,DL-1,2024,,SNAG,27,,,8,,,,,,,
+Main,DL-1,2024,,SNAG,24.7,,,8,,,,,,,
+Main,DL-2,2024,,ACRU,31,I,6,3,,,,,,,
+Main,DL-2,2024,,ACRU,23.8,S,6,2,,,,,,,broken top
+Main,DL-2,2024,,ACRU,17.9,I,5,3,,,,,,,epicormic branching
+Main,DL-2,2024,,ACSA3,18,S,6,2,,,,,,,
+Main,DL-2,2024,,ACSA3,26.1,S,6,2,,,,,,,
+Main,DL-2,2024,,FAGR,30.9,I,6,2,1,3,2,3,0,0,Leaf curling aphids
+Main,DL-2,2024,,FAGR,16.8,S,6,2,2,1,2,3,0,0,
+Main,DL-2,2024,,PRSE2,26.9,S,3,5,,,,,,,
+Main,DL-2,2024,,QUCO2,68.4,C,6,3,,,,,,,
+Main,DL-2,2024,,QURU,62.2,C,6,2,,,,,,,
+Main,DL-2,2024,,QURU,67.8,C,6,2,,,,,,,
+Main,DL-2,2024,,QURU,73.4,C,6,2,,,,,,,
+Main,DL-2,2024,,QURU,44,I,6,2,,,,,,,
+Main,DL-2,2024,,SNAG,13.3,,,7,,,,,,,attached to ACRU 23.8
+Main,GW-1,2024,,FAGR,33.2,C,6,3,2,1,3,3,2,4,
+Main,GW-1,2024,,FAGR,23.5,I,5,3,1,2,4,3,2,4,
+Main,GW-1,2024,,FAGR,34.3,C,5,3,4,3,4,3,1,2,
+Main,GW-1,2024,,FAGR,40.8,C,6,2,2,3,2,3,1,2,
+Main,GW-1,2024,,FAGR,20.7,I,6,2,2,1,2,3,2,2,#1520
+Main,GW-1,2024,,FAGR,23.3,C,4,4,3,1,4,3,2,1,
+Main,GW-1,2024,,FAGR,22.7,I,5,3,3,2,2,3,1,1,
+Main,GW-1,2024,,TIAM,44.7,C,5,3,,,,,,,#1518
+Main,GW-1,2024,,TIAM,39.5,C,5,3,,,,,,,
+Main,GW-1,2024,,TIAM,25.1,I,5,4,,,,,,,
+Main,GW-1,2024,,ULRU,14.3,I,5,3,,,,,,,
+Main,HA-1,2024,,ACRU,29.7,S,6,3,,,,,,,#470
+Main,HA-1,2024,,FAGR,42.5,C,6,2,1,3,2,3,0,0,Leaf curling aphids
+Main,HA-1,2024,,FAGR,28.8,I,6,2,2,1,2,3,0,0,Leaf curling aphids
+Main,HA-1,2024,,FAGR,13.8,S,6,2,1,3,2,3,0,0,
+Main,HA-1,2024,,PRSE2,13.4,S,6,3,,,,,,,
+Main,HA-1,2024,,QUAL,65.5,C,6,3,,,,,,,
+Main,HA-1,2024,,QUVE,65.2,C,5,3,,,,,,,
+Main,HA-2,2024,,ACRU,23.5,S,6,3,,,,,,,
+Main,HA-2,2024,,ACRU,16.5,S,6,2,,,,,,,
+Main,HA-2,2024,,ACRU,20.2,S,6,2,,,,,,,
+Main,HA-2,2024,,FAGR,35.6,I,6,2,1,3,2,3,0,0,
+Main,HA-2,2024,,PRSE2,42.1,C,6,3,,,,,,,
+Main,HA-2,2024,,QUAL,74.2,D,6,3,,,,,,,
+Main,HA-2,2024,,QUAL,61.7,C,6,2,,,,,,,
+Main,HA-2,2024,,SNAG,57.5,,,7,,,,,,,
+Main,HA-2,2024,,SNAG,28.7,,,8,,,,,,,
+Main,HA-3,2024,,ACRU,23.2,I,6,2,,,,,,,
+Main,HA-3,2024,,ACRU,32.3,C,6,3,,,,,,,
+Main,HA-3,2024,,ACRU,37.4,C,6,3,,,,,,,Frost Rib
+Main,HA-3,2024,,ACRU,20.9,S,5,4,,,,,,,
+Main,HA-3,2024,,FAGR,63.4,D,6,2,1,3,2,3,0,0,
+Main,HA-3,2024,,NYSY,26.8,I,6,3,,,,,,,
+Main,HA-3,2024,,NYSY,26.8,S,6,2,,,,,,,
+Main,HA-3,2024,,NYSY,45.9,C,6,2,,,,,,,
+Main,HA-3,2024,,NYSY,20.7,S,6,2,,,,,,,
+Main,HA-3,2024,,NYSY,23,S,6,3,,,,,,,
+Main,HA-3,2024,,NYSY,20.9,S,6,2,,,,,,,
+Main,HA-3,2024,,PRSE2,13.9,S,6,2,,,,,,,
+Main,HH-1,2024,,ACSA3,25.5,S,6,2,,,,,,,
+Main,HH-1,2024,,ACSA3,44.6,C,6,2,,,,,,,
+Main,HH-1,2024,,ACSA3,20.3,S,6,2,,,,,,,
+Main,HH-1,2024,,ACSA3,41.5,C,6,2,,,,,,,
+Main,HH-1,2024,,FAGR,55.8,C,6,2,1,3,2,3,1,4,
+Main,HH-1,2024,,FAGR,57.1,C,6,2,1,3,2,2,1,2,many bark carvings
+Main,HH-1,2024,,QURU,49.5,C,6,2,,,,,,,attached to QURU 48.7
+Main,HH-1,2024,,QURU,48.7,C,6,2,,,,,,,
+Main,HR-1,2024,,ACSA3,37.7,C,6,2,,,,,,,
+Main,HR-1,2024,,ACSA3,57.6,D,6,2,,,,,,,
+Main,HR-1,2024,,ACSA3,20.1,S,6,3,,,,,,,
+Main,HR-1,2024,,ACSA3,47.6,C,6,2,,,,,,,
+Main,HR-1,2024,,ACSA3,41.7,C,6,2,,,,,,,
+Main,HR-1,2024,,FAGR,60.2,C,6,3,2,1,3,3,1,1,
+Main,HR-1,2024,,FAGR,44.4,I,6,3,1,1,3,3,1,2,
+Main,HR-1,2024,,FAGR,57.9,C,6,3,1,1,3,3,2,2,
+Main,HR-2,2024,,ACSA3,13,I,6,3,,,,,,,
+Main,HR-2,2024,,ACSA3,71.7,D,6,2,,,,,,,
+Main,HR-2,2024,,ACSA3,19.2,I,6,2,,,,,,,
+Main,HR-2,2024,,ACSA3,51.3,C,6,2,,,,,,,
+Main,HR-2,2024,,ACSA3,67.9,C,6,2,,,,,,,
+Main,HR-2,2024,,ACSA3,12.8,S,6,3,,,,,,,
+Main,HR-2,2024,,FAGR,50.2,C,6,3,2,2,2,3,2,2,
+Main,HR-2,2024,,FAGR,58.5,C,6,3,1,3,3,3,3,3,
+Main,HR-2,2024,,FAGR,47,C,5,4,1,3,4,3,4,3,
+Main,HR-2,2024,,SNAG,29.5,,,8,,,,,,,
+Main,NP-1,2024,,BELE,31,I,6,2,,,,,,,
+Main,NP-1,2024,,BELE,36.2,I,6,2,,,,,,,
+Main,NP-1,2024,,BELE,26.8,I,6,2,,,,,,,
+Main,NP-1,2024,,FAGR,30.2,I,6,2,1,3,2,3,0,0,Beech blight aphids
+Main,NP-1,2024,,Norway Maple,32.5,I,6,2,,,,,,,
+Main,NP-1,2024,,QUCO2,87.9,D,6,3,,,,,,,
+Main,NP-1,2024,,SNAG,53,,,8,,,,,,,
+Main,NP-1,2024,,TSCA,27,S,3,5,,,,,,,
+Main,NP-1,2024,,TSCA,36.6,S,3,5,,,,,,,
+Main,NP-1,2024,,TSCA,38.7,S,4,4,,,,,,,
+Main,NP-1,2024,,ULRU,28.6,I,6,3,,,,,,,
+Main,NP-1,2024,,ULRU,23,S,4,4,,,,,,,Herbivory
+Main,NP-2,2024,,ACSA3,16.5,S,6,2,,,,,,,
+Main,NP-2,2024,,FAGR,41.2,I,6,2,2,1,2,3,2,4,
+Main,NP-2,2024,,QUAL,63.5,C,5,4,,,,,,,
+Main,NP-2,2024,,QUAL,61.4,C,5,3,,,,,,,
+Main,NP-2,2024,,QUAL,50.3,I,5,3,,,,,,,
+Main,NP-2,2024,,QUAL,55.4,C,6,3,,,,,,,
+Main,NP-2,2024,,QUAL,40.7,C,5,3,,,,,,,
+Main,NP-2,2024,,QURU,67.2,C,5,3,,,,,,,
+Main,NP-2,2024,,QURU,24.4,S,4,4,,,,,,,
+Main,NP-2,2024,,QURU,70.9,D,5,3,,,,,,,
+Main,NP-2,2024,,QURU,47.1,I,6,3,,,,,,,
+Main,NP-3,2024,,ACRU,22,S,6,3,,,,,,,
+Main,NP-3,2024,,FAGR,35.6,I,5,4,2,3,3,3,3,4,
+Main,NP-3,2024,,FAGR,47.9,C,5,4,2,3,3,3,2,3,
+Main,NP-3,2024,,FAGR,55.2,C,5,4,2,3,4,1,2,2,
+Main,NP-3,2024,,FAGR,29.7,S,4,4,3,3,4,3,3,4,
+Main,NP-3,2024,,QUAL,57.7,C,6,3,,,,,,,
+Main,NP-3,2024,,QUAL,98.3,D,5,3,,,,,,,
+Main,NP-3,2024,,QURU,73.5,C,5,3,,,,,,,
+Main,NP-3,2024,,SNAG,25.5,,,7,,,,,,,
+Main,PB-1,2024,,ACSA3,15.9,S,6,2,,,,,,,
+Main,PB-1,2024,,ACSA3,31.6,I,6,2,,,,,,,
+Main,PB-1,2024,,ACSA3,13,S,6,2,,,,,,,
+Main,PB-1,2024,,ACSA3,23,S,6,2,,,,,,,
+Main,PB-1,2024,,FAGR,44.1,I,4,4,3,1,4,3,3,2,
+Main,PB-1,2024,,FAGR,88.1,C,5,3,2,1,4,1,3,3,PB-41 Almost has lenticils
+Main,PB-1,2024,,FAGR,14.8,S,2,6,6,3,6,3,2,4,"Barely Alive, second bud break?"
+Main,PB-1,2024,,FAGR,18.4,I,3,5,2,3,5,3,3,3,
+Main,PB-1,2024,,FAGR,24.1,I,4,4,3,1,4,3,3,2,
+Main,PC-1,2024,Control,ACSA3,26,I,6,2,,,,,,,#468
+Main,PC-1,2024,Control,ACSA3,29.8,I,6,2,,,,,,,#464
+Main,PC-1,2024,Control,ACSA3,26,I,6,2,,,,,,,#462
+Main,PC-1,2024,Control,ACSA3,24.5,I,6,3,,,,,,,
+Main,PC-1,2024,Control,ACSA3,29.9,I,6,3,,,,,,,#483
+Main,PC-1,2024,Control,FAGR,5.6,S,5,3,1,3,3,3,2,2,
+Main,PC-1,2024,Control,QURU,89.7,C,5,3,,,,,,,#469
+Main,PC-1,2024,Control,QURU,90.3,D,5,3,,,,,,,#467
+Main,PC-1,2024,Control,QURU,90.4,C,5,3,,,,,,,#484
+Main,PC-10,2024,X-Trt,ACRU,28.4,I,6,2,,,,,,,#771
+Main,PC-10,2024,X-Trt,ACRU,28.9,I,6,2,,,,,,,
+Main,PC-10,2024,X-Trt,ACRU,41.5,I,6,2,,,,,,,#768
+Main,PC-10,2024,X-Trt,FAGR,3.3,S,2,6,4,3,5,3,3,2,
+Main,PC-10,2024,X-Trt,QUAL,65.5,C,5,3,,,,,,,in deer fence
+Main,PC-10,2024,X-Trt,QURU,79,C,5,3,,,,,,,#772
+Main,PC-10,2024,X-Trt,SNAG,20.7,,,8,,,,,,,#770
+Main,PC-10,2024,X-Trt,TSCA,19.5,S,6,3,,,,,,,#769
+Main,PC-11,2024,Lime,ACSA3,13.2,S,6,2,,,,,,,#803
+Main,PC-11,2024,Lime,ACSA3,13.8,S,6,3,,,,,,,#794
+Main,PC-11,2024,Lime,FAGR,2,S,3,6,2,3,5,3,3,3,
+Main,PC-11,2024,Lime,FAGR,12.9,S,4,4,3,3,4,3,2,1,#806
+Main,PC-11,2024,Lime,QUAL,82.2,C,5,3,,,,,,,#791
+Main,PC-11,2024,Lime,QUAL,27.9,I,5,3,,,,,,,
+Main,PC-11,2024,Lime,QUPR2,13.9,S,6,2,,,,,,,#812
+Main,PC-11,2024,Lime,QURU,44.6,C,5,3,,,,,,,#804
+Main,PC-11,2024,Lime,QURU,48.6,C,6,2,,,,,,,#805
+Main,PC-11,2024,Lime,QURU,52,C,5,4,,,,,,,#815
+Main,PC-11,2024,Lime,QURU,42.4,C,6,2,,,,,,,#816
+Main,PC-11,2024,Lime,QURU,31.8,I,4,4,,,,,,,#817
+Main,PC-11,2024,Lime,QURU,14.8,S,6,3,,,,,,,#795
+Main,PC-12,2024,Control,ACRU,33.4,I,6,3,,,,,,,#8x0 (scratched)
+Main,PC-12,2024,Control,ACSA3,23.9,I,6,2,,,,,,,#846
+Main,PC-12,2024,Control,ACSA3,12.8,I,6,2,,,,,,,#860
+Main,PC-12,2024,Control,ACSA3,19.9,S,6,2,,,,,,,#859
+Main,PC-12,2024,Control,ACSA3,14.7,S,6,2,,,,,,,#844
+Main,PC-12,2024,Control,CAOV2,58.7,C,6,2,,,,,,,#842
+Main,PC-12,2024,Control,CARYA,20.4,SS,6,2,,,,,,,#853
+Main,PC-12,2024,Control,FAGR,9.6,S,5,3,2,1,4,3,2,2,#854
+Main,PC-12,2024,Control,LITU,57.1,C,6,2,,,,,,,#849/840? (SCRATCHED OUT)
+Main,PC-12,2024,Control,LITU,57.1,C,6,2,,,,,,,
+Main,PC-12,2024,Control,LITU,44.7,C,6,2,,,,,,,#856
+Main,PC-12,2024,Control,LITU,57.8,C,5,3,,,,,,,
+Main,PC-12,2024,Control,LITU,69.6,D,6,3,,,,,,,Scratched
+Main,PC-12,2024,Control,QURU,52.1,C,5,3,,,,,,,#848
+Main,PC-12,2024,Control,QURU,59.6,C,6,3,,,,,,,#843? (SCRATCHED)
+Main,PC-2,2024,X-Trt,ACRU,24.2,S,5,3,,,,,,,#520
+Main,PC-2,2024,X-Trt,ACSA3,23.3,S,6,2,,,,,,,#490
+Main,PC-2,2024,X-Trt,ACSA3,51.7,I,6,2,,,,,,,
+Main,PC-2,2024,X-Trt,ACSA3,30.5,S,6,2,,,,,,,
+Main,PC-2,2024,X-Trt,FAGR,12.3,S,3,6,5,2,5,3,4,4,#525
+Main,PC-2,2024,X-Trt,FAGR,12.7,S,4,4,2,1,3,3,3,3,
+Main,PC-2,2024,X-Trt,FAGR,16.5,S,5,3,3,1,3,3,2,2,
+Main,PC-2,2024,X-Trt,LITU,24.6,I,6,2,,,,,,,
+Main,PC-2,2024,X-Trt,OSVI,13.3,S,6,2,,,,,,,#523
+Main,PC-2,2024,X-Trt,QURU,74.1,C,6,2,,,,,,,
+Main,PC-2,2024,X-Trt,QURU,36,I,6,3,,,,,,,
+Main,PC-2,2024,X-Trt,QURU,72,C,5,3,,,,,,,
+Main,PC-2,2024,X-Trt,TSCA,21.3,S,5,3,,,,,,,
+Main,PC-3,2024,TSP,ACSA3,35.6,I,6,2,,,,,,,#579
+Main,PC-3,2024,TSP,ACSA3,30.8,I,6,1,,,,,,,#566
+Main,PC-3,2024,TSP,ACSA3,31.8,S,6,2,,,,,,,
+Main,PC-3,2024,TSP,ACSA3,32.8,I,6,2,,,,,,,
+Main,PC-3,2024,TSP,FAGR,7.1,S,5,2,1,,2,3,2,2,#981
+Main,PC-3,2024,TSP,QURU,78.9,C,6,2,,,,,,,#
+Main,PC-3,2024,TSP,QURU,94,C,6,2,,,,,,,#580
+Main,PC-3,2024,TSP,QURU,67.1,C,6,1,,,,,,,#565
+Main,PC-3,2024,TSP,QURU,63.6,C,6,2,,,,,,,
+Main,PC-3,2024,TSP,QURU,73.2,C,6,2,,,,,,,#563
+Main,PC-4,2024,Lime,ACSA3,21.9,I,6,2,,,,,,,
+Main,PC-4,2024,Lime,ACSA3,43.2,C,6,2,,,,,,,#538
+Main,PC-4,2024,Lime,ACSA3,25.6,I,6,2,,,,,,,#535
+Main,PC-4,2024,Lime,ACSA3,47.5,C,6,2,,,,,,,#574? (Scratched)
+Main,PC-4,2024,Lime,ACSA3,23,I,6,2,,,,,,,#5XX (Scratched)
+Main,PC-4,2024,Lime,ACSA3,30.7,C,6,2,,,,,,,
+Main,PC-4,2024,Lime,ACSA3,25.5,I,6,2,,,,,,,#553
+Main,PC-4,2024,Lime,FAGR,11.5,S,4,4,2,3,3,3,4,3,#533
+Main,PC-4,2024,Lime,QURU,101.1,C,6,2,,,,,,,
+Main,PC-4,2024,Lime,QURU,107.2,C,5,3,,,,,,,
+Main,PC-4,2024,Lime,SNAG,13.6,,,8,,,,,,,
+Main,PC-4,2024,Lime,SNAG,21.9,,,7,,,,,,,#551
+Main,PC-5,2024,Lime,ACSA3,49.4,C,6,3,,,,,,,#599
+Main,PC-5,2024,Lime,ACSA3,26.7,S,6,3,,,,,,,#597
+Main,PC-5,2024,Lime,ACSA3,18.5,S,6,2,,,,,,,
+Main,PC-5,2024,Lime,ACSA3,34.2,I,6,2,,,,,,,
+Main,PC-5,2024,Lime,ACSA3,34,I,6,3,,,,,,,
+Main,PC-5,2024,Lime,ACSA3,55.3,C,5,3,,,,,,,#608
+Main,PC-5,2024,Lime,ACSA3,21.8,S,6,2,,,,,,,#606
+Main,PC-5,2024,Lime,ACSA3,21.7,S,6,2,,,,,,,#607
+Main,PC-5,2024,Lime,CARYA,46.1,C,6,2,,,,,,,
+Main,PC-5,2024,Lime,FAGR,6.2,S,3,5,3,2,4,3,1,1,
+Main,PC-5,2024,Lime,QURU,91.4,C,6,3,,,,,,,
+Main,PC-5,2024,Lime,QURU,70.3,C,6,2,,,,,,,#636
+Main,PC-6,2024,Control,ACRU,41.6,C,6,2,,,,,,,#621
+Main,PC-6,2024,Control,ACSA3,18.8,S,6,2,,,,,,,
+Main,PC-6,2024,Control,ACSA3,48.4,C,5,3,,,,,,,
+Main,PC-6,2024,Control,ACSA3,23.7,I,6,2,,,,,,,#644
+Main,PC-6,2024,Control,ACSA3,20.2,S,6,2,,,,,,,#626
+Main,PC-6,2024,Control,ACSA3,21.9,I,6,2,,,,,,,#639
+Main,PC-6,2024,Control,CARYA,38.8,C,6,2,,,,,,,#640
+Main,PC-6,2024,Control,FAGR,3.7,S,2,6,6,3,6,3,3,2,
+Main,PC-6,2024,Control,QURU,90.3,D,5,3,,,,,,,
+Main,PC-6,2024,Control,QURU,93.4,D,5,3,,,,,,,#623
+Main,PC-6,2024,Control,QURU,66.4,C,6,3,,,,,,,#624
+Main,PC-6,2024,Control,QURU,70.6,C,6,2,,,,,,,#636
+Main,PC-8,2024,X-Trt,ACRU,39.8,C,6,2,,,,,,,#707
+Main,PC-8,2024,X-Trt,ACSA3,17,S,6,2,,,,,,,#703
+Main,PC-8,2024,X-Trt,ACSA3,56.4,C,6,3,,,,,,,
+Main,PC-8,2024,X-Trt,ACSA3,18.7,S,6,2,,,,,,,#689
+Main,PC-8,2024,X-Trt,ACSA3,49.1,C,6,3,,,,,,,#691
+Main,PC-8,2024,X-Trt,ACSA3,30.2,I,6,2,,,,,,,#704
+Main,PC-8,2024,X-Trt,FAGR,6,S,4,4,1,3,4,3,3,2,
+Main,PC-8,2024,X-Trt,SNAG,44.5,,,8,,,,,,,#693
+Main,PC-8,2024,X-Trt,SNAG,52,,,8,,,,,,,
+Main,PC-9,2024,TSP,ACRU,23.1,S,6,2,,,,,,,
+Main,PC-9,2024,TSP,ACSA3,63.9,C,6,2,,,,,,,#744
+Main,PC-9,2024,TSP,ACSA3,21.4,S,6,2,,,,,,,#745
+Main,PC-9,2024,TSP,ACSA3,15.2,S,6,2,,,,,,,#733
+Main,PC-9,2024,TSP,ACSA3,41,C,6,3,,,,,,,#725
+Main,PC-9,2024,TSP,ACSA3,31.5,C,6,2,,,,,,,#726
+Main,PC-9,2024,TSP,FAGR,9.4,S,5,4,3,1,4,3,2,4,#743
+Main,PC-9,2024,TSP,FAGR,13.1,S,5,3,2,2,3,3,2,3,"#728, missing top of trunk"
+Main,PC-9,2024,TSP,QUAL,56,C,5,3,,,,,,,
+Main,PC-9,2024,TSP,QURU,18,S,6,2,,,,,,,
+Main,PC-9,2024,TSP,QURU,23.8,I,5,3,,,,,,,
+Main,PC-9,2024,TSP,QURU,14.9,S,6,2,,,,,,,#738
+Main,PC-9,2024,TSP,SNAG,34.7,,,7,,,,,,,#747
+Main,RH-1,2024,,ACSA3,54.8,C,5,3,,,,,,,
+Main,RH-1,2024,,CARYA,38.1,C,4,4,,,,,,,
+Main,RH-1,2024,,FAGR,59.5,C,6,3,2,2,2,3,0,0,
+Main,RH-1,2024,,FAGR,43.6,C,6,2,1,3,2,3,0,0,
+Main,RH-1,2024,,FAGR,48.7,C,6,2,2,1,2,3,0,0,
+Main,RH-1,2024,,FAGR,31.3,I,6,2,1,3,2,3,1,1,
+Main,RH-1,2024,,FAGR,41,C,5,3,2,3,3,3,0,0,
+Main,RH-1,2024,,FAGR,41.1,C,6,2,2,3,2,3,0,0,
+Main,RH-1,2024,,FAGR,23.6,S,6,2,1,3,2,3,0,0,
+Main,RH-1,2024,,FAGR,47.4,C,5,4,2,1,3,3,0,0,
+Main,RH-1,2024,,ULRU,23.5,S,5,3,,,,,,,
+Main,SB-1,2024,,ACSA3,20.5,S,6,2,,,,,,,
+Main,SB-1,2024,,ACSA3,24.2,I,6,2,,,,,,,
+Main,SB-1,2024,,FAGR,64.9,C,6,2,1,3,2,3,2,2,"SC1-41. leaning, big split."
+Main,SB-1,2024,,FAGR,60.1,C,5,4,3,3,4,3,1,2,Missing tag
+Main,SB-1,2024,,FAGR,51.1,C,6,2,2,2,2,3,2,1,
+Main,SB-1,2024,,FAGR,16.3,S,6,2,1,3,2,3,3,3,
+Main,SB-1,2024,,FAGR,13,I,6,3,2,2,3,3,4,3,"bent over, in a canopy gap"
+Main,SB-1,2024,,FAGR,27.1,I,6,2,2,3,2,3,2,2,
+Main,SB-1,2024,,FAGR,17.3,S,5,4,3,1,4,3,3,3,bent over
+Main,SB-1,2024,,FAGR,17.3,I,6,2,2,3,2,3,3,3,in canopy gap
+Main,SB-1,2024,,SNAG,51.7,,,8,,,,,,,"beech, tag SC1-45"
+Main,SB-1A,2024,,ACSA3,86,D,6,3,,,,,,,#926
+Main,SB-1A,2024,,ACSA3,14.2,S,6,2,,,,,,,
+Main,SB-1A,2024,,ACSA3,17.2,I,5,3,,,,,,,LEAVES DON'T LOOK HEALTHY
+Main,SB-1A,2024,,ACSA3,12.7,I,6,3,,,,,,,
+Main,SB-1A,2024,,FAGR,95.1,C,6,2,1,3,2,3,1,1,#922
+Main,SB-1A,2024,,FAGR,15,S,6,3,2,3,2,3,2,2,
+Main,SB-1A,2024,,FAGR,48,C,5,4,3,3,3,3,3,1,"#921, POSSIBLE BBD"
+Main,SB-1B,2024,,ACSA3,24.2,I,5,4,,,,,,,
+Main,SB-1B,2024,,ACSA3,21.6,S,6,2,,,,,,,
+Main,SB-1B,2024,,ACSA3,31.7,I,6,2,,,,,,,#932
+Main,SB-1B,2024,,ACSA3,17.5,I,5,3,,,,,,,
+Main,SB-1B,2024,,ACSA3,45.6,C,6,2,,,,,,,
+Main,SB-1B,2024,,ACSA3,15.4,S,6,2,,,,,,,#930
+Main,SB-1B,2024,,FAGR,89.9,D,4,4,4,1,3,3,2,1,#931
+Main,SB-1B,2024,,FAGR,113.5,C,6,3,2,1,2,3,1,1,"really healthy, alomst no BLD, decayed bottom"
+Main,SB-1B,2024,,FAGR,33.8,I,5,4,3,1,3,3,2,2,#933
+Main,SB-1B,2024,,FAGR,13.1,S,6,3,2,1,3,3,2,2,
+Main,SB-1B,2024,,SNAG,20.4,,,7,,,,,,,
+Main,SB-2,2024,,ACSA3,82.3,D,6,3,,,,,,,
+Main,SB-2,2024,,ACSA3,45.6,I,6,2,,,,,,,
+Main,SB-2,2024,,ACSA3,19.5,S,5,3,,,,,,,
+Main,SB-2,2024,,ACSA3,60.7,C,6,3,,,,,,,
+Main,SB-2,2024,,ACSA3,16.8,S,6,2,,,,,,,
+Main,SB-2,2024,,ACSA3,33.7,I,6,2,,,,,,,
+Main,SB-2,2024,,ACSA3,56.2,C,6,2,,,,,,,
+Main,SB-2,2024,,FAGR,56.3,C,5,3,3,1,3,3,2,2,SB1-41 #511
+Main,SB-2,2024,,FAGR,45.4,C,5,3,2,3,3,3,2,3,BBD? Lumpy Bark
+Main,SB-2,2024,,FAGR,19.3,S,5,4,2,1,3,3,3,2,
+Main,SB-2,2024,,SNAG,14.8,,,7,,,,,,,
+Main,SB-2A,2024,,ACSA3,14,S,6,2,,,,,,,#896
+Main,SB-2A,2024,,ACSA3,18.5,S,6,2,,,,,,,#895
+Main,SB-2A,2024,,ACSA3,14.9,S,6,2,,,,,,,#898
+Main,SB-2A,2024,,ACSA3,14.6,S,6,2,,,,,,,missing top of trunk
+Main,SB-2A,2024,,ACSA3,15.1,S,6,2,,,,,,,bark doesn't look like ACSA3
+Main,SB-2A,2024,,ACSA3,71.8,D,6,2,,,,,,,
+Main,SB-2A,2024,,ACSA3,18,I,6,2,,,,,,,
+Main,SB-2A,2024,,FAGR,92.6,C,5,4,3,1,4,3,3,2,lower trunk rotting
+Main,SB-2A,2024,,FAGR,16.7,S,5,4,2,3,3,3,4,3,
+Main,SB-2A,2024,,FAGR,79.2,C,6,3,1,3,3,3,3,3,#912
+Main,SB-2B,2024,,FAGR,28.5,C,5,3,2,3,3,3,4,4,#910
+Main,SB-2B,2024,,FAGR,16.2,S,5,3,1,3,3,3,4,4,
+Main,SB-2B,2024,,FAGR,67,D,6,2,2,2,2,3,1,2,
+Main,SB-2B,2024,,FAGR,63.8,C,6,2,2,3,2,3,4,4,#911
+Main,SB-2B,2024,,FAGR,32.7,C,4,4,3,1,3,3,4,2,
+Main,SB-2B,2024,,SNAG,no data,no data,no data,8,,,,,,,large size but not measureable
+Main,SB-2B,2024,,SNAG,no data,no data,no data,8,,,,,,,large size but not measureable
+Main,SB-3A,2024,,ACSA3,21.9,S,6,2,,,,,,,
+Main,SB-3A,2024,,ACSA3,15.1,I,5,3,,,,,,,
+Main,SB-3A,2024,,ACSA3,17.9,I,6,2,,,,,,,
+Main,SB-3A,2024,,FAGR,63.6,C,6,2,2,3,2,3,3,4,
+Main,SB-3A,2024,,FAGR,18.6,S,6,2,2,3,2,3,2,1,"possible BBD, black horizontal spots on bark"
+Main,SB-3A,2024,,FAGR,18.8,S,6,3,1,3,3,3,2,2,
+Main,SB-3A,2024,,FAGR,83,C,6,2,1,3,2,3,1,2,
+Main,SB-3A,2024,,LITU,114.4,D,5,3,,,,,,,
+Main,SB-3A,2024,,SNAG,75.3,,,8,,,,,,,#881
+Main,SB-3A,2024,,SNAG,13.9,,,7,,,,,,,
+Main,SB-3B,2024,,ACSA3,14.8,S,6,3,,,,,,,
+Main,SB-3B,2024,,ACSA3,14.4,S,6,2,,,,,,,
+Main,SB-3B,2024,,ACSA3,31.5,C,5,3,,,,,,,
+Main,SB-3B,2024,,FAGR,52.3,C,5,4,4,1,4,3,2,1,#889
+Main,SB-3B,2024,,FAGR,62.6,C,6,3,3,1,2,2,1,1,
+Main,SB-3B,2024,,FAGR,37.5,I,6,3,2,1,3,3,2,3,#890
+Main,SC-1,2024,Lime,ACRU,68.6,C,6,2,,,,,,,
+Main,SC-1,2024,Lime,ACRU,46.8,C,5,3,,,,,,,#1
+Main,SC-1,2024,Lime,ACSA3,33.6,I,4,4,,,,,,,#17
+Main,SC-1,2024,Lime,FAGR,33.9,I,5,4,3,1,3,3,2,1,#2
+Main,SC-1,2024,Lime,QURU,76.2,C,6,2,,,,,,,
+Main,SC-1,2024,Lime,QURU,78.1,C,6,2,,,,,,,
+Main,SC-1,2024,Lime,QURU,62.8,C,6,3,,,,,,,#3
+Main,SC-1,2024,Lime,SNAG,44.6,,,8,,,,,,,#14
+Main,SC-10,2024,,ACRU,78.5,D,6,2,,,,,,,#419
+Main,SC-10,2024,,ACRU,79.9,D,6,3,,,,,,,#440
+Main,SC-10,2024,,ACSA3,12.7,S,6,2,,,,,,,#413
+Main,SC-10,2024,,ACSA3,44,C,6,2,,,,,,,#444
+Main,SC-10,2024,,ACSA3,39.2,C,5,3,,,,,,,
+Main,SC-10,2024,,ACSA3,14.9,S,6,2,,,,,,,
+Main,SC-10,2024,,FAGR,4.8,S,3,5,3,3,4,3,3,2,
+Main,SC-3,2024,TSP,ACRU,74,D,6,2,,,,,,,
+Main,SC-3,2024,TSP,ACRU,97.2,D,6,2,,,,,,,
+Main,SC-3,2024,TSP,ACRU,56.2,C,6,3,,,,,,,#152
+Main,SC-3,2024,TSP,ACRU,79.9,C,6,2,,,,,,,#153
+Main,SC-3,2024,TSP,ACSA3,43.5,I,6,2,,,,,,,
+Main,SC-3,2024,TSP,ACSA3,35,I,6,2,,,,,,,
+Main,SC-3,2024,TSP,FAGR,4.9,S,6,2,2,1,2,3,2,1,Tree is very healthy
+Main,SC-3,2024,TSP,FAGR,15.9,S,6,2,1,3,2,3,2,3,
+Main,SC-5,2024,Control,ACRU,21.8,I,5,3,,,,,,,
+Main,SC-5,2024,Control,ACRU,62.2,C,6,3,,,,,,,
+Main,SC-5,2024,Control,ACRU,18.5,S,6,2,,,,,,,
+Main,SC-5,2024,Control,ACRU,35.8,I,6,3,,,,,,,
+Main,SC-5,2024,Control,ACRU,17.5,S,6,3,,,,,,,#252
+Main,SC-5,2024,Control,ACRU,17.7,S,6,2,,,,,,,#251
+Main,SC-5,2024,Control,ACRU,19.2,S,6,2,,,,,,,#248
+Main,SC-5,2024,Control,ACRU,12.8,S,6,2,,,,,,,#250
+Main,SC-5,2024,Control,ACSA3,28.3,I,6,3,,,,,,,
+Main,SC-5,2024,Control,ACSA3,28.2,I,4,4,,,,,,,
+Main,SC-5,2024,Control,CARYA,18.7,I,6,2,,,,,,,
+Main,SC-5,2024,Control,FAGR,11.2,S,6,2,1,3,2,3,1,2,#243
+Main,SC-5,2024,Control,QURU,65,C,6,3,,,,,,,#239
+Main,SC-5,2024,Control,QURU,56.4,C,6,3,,,,,,,
+Main,SC-5,2024,Control,QURU,78.5,C,6,2,,,,,,,
+Main,SC-5,2024,Control,SNAG,31.1,,,7,,,,,,,#242
+Main,SC-7,2024,Lime,ACRU,45.1,C,6,2,,,,,,,
+Main,SC-7,2024,Lime,ACRU,42.7,C,6,3,,,,,,,
+Main,SC-7,2024,Lime,ACSA3,40.6,C,6,3,,,,,,,#331
+Main,SC-7,2024,Lime,ACSA3,53,C,6,2,,,,,,,#523
+Main,SC-7,2024,Lime,FAGR,7,S,5,4,1,,4,3,3,3,#335
+Main,SC-7,2024,Lime,FAGR,20.1,I,5,4,3,1,4,3,5,3,#298
+Main,SC-7,2024,Lime,FAGR,72.5,D,5,3,2,2,3,3,4,2,#294
+Main,SC-7,2024,Lime,FAGR,37.3,C,5,4,3,1,4,3,4,4,#296
+Main,SC-7,2024,Lime,FAGR,15.9,S,4,4,3,3,4,3,1,2,#297
+Main,SC-7,2024,Lime,PRSE2,13.7,I,6,2,,,,,,,#332
+Main,SC-7,2024,Lime,SNAG,28.2,,,8,,,,,,,
+Main,SC-8,2024,,ACRU,45,C,6,2,,,,,,,#364
+Main,SC-8,2024,,ACSA3,41.3,C,3,5,,,,,,,#360
+Main,SC-8,2024,,FAGR,57.3,C,5,3,2,2,3,3,1,2,#363
+Main,SC-8,2024,,FAGR,48.5,C,5,3,2,3,3,3,0,,"#362, can't confirm BLD."
+Main,SC-8,2024,,FAGR,16.4,I,6,3,2,2,3,3,1,2,#368
+Main,SC-8,2024,,FAGR,38.7,C,6,3,1,3,3,3,2,1,#365
+Main,SC-8,2024,,FAGR,54.6,C,6,2,1,3,2,3,1,2,Barely any BLD symptomes
+Main,SC-8,2024,,PRSE2,67.1,D,4,4,,,,,,,
+Main,SC-8,2024,,SNAG,21.9,,,7,,,,,,,#343
+Main,SC-8,2024,,SNAG,52.5,,,7,,,,,,,#342
+Main,SC-8,2024,,SNAG,37.6,,,7,,,,,,,#366
+Main,SC-9,2024,Control,ACRU,24.5,I,6,2,,,,,,,#572
+Main,SC-9,2024,Control,ACRU,76,D,6,2,,,,,,,#378
+Main,SC-9,2024,Control,ACRU,17.5,I,6,2,,,,,,,
+Main,SC-9,2024,Control,ACSA3,36,I,5,3,,,,,,,
+Main,SC-9,2024,Control,ACSA3,19.8,I,6,2,,,,,,,#374
+Main,SC-9,2024,Control,FAGR,12.4,S,5,3,1,3,3,3,3,3,"#935, trunk broken/conjoined at center, total 19.2 DBH with below. Measured larger in 2023 only. "
+Main,SC-9,2024,Control,LITU,69.8,C,6,2,,,,,,,#370
+Main,SC-9,2024,Control,LITU,18.2,I,6,2,,,,,,,
+Main,SC-9,2024,Control,SNAG,43.5,,,8,,,,,,,#399
+Main,SC-9,2024,Control,SNAG,43.9,,,7,,,,,,,"Covered in vitis, #401"
+Main,SC-9,2024,Control,SNAG,28.6,,,8,,,,,,,#377
+Main,SC-9,2024,Control,SNAG,21.2,,,8,,,,,,,#393
+Main,SC-9,2024,Control,SNAG,32.7,,,8,,,,,,,#392
+Main,SC-9,2024,Control,SNAG,45.4,,,8,,,,,,,#396
+Main,SP-1,2024,,ACRU,24.9,I,6,3,,,,,,,
+Main,SP-1,2024,,ACRU,19.9,S,4,4,,,,,,,
+Main,SP-1,2024,,ACRU,18.9,S,5,3,,,,,,,
+Main,SP-1,2024,,FAGR,35.7,I,6,2,2,2,2,3,0,0,
+Main,SP-1,2024,,FAGR,63.7,C,6,2,1,3,2,3,0,0,many trunk carvings
+Main,SP-1,2024,,FAGR,26.8,S,6,3,1,3,3,3,0,0,
+Main,SP-1,2024,,PRSE2,65.5,C,4,4,,,,,,,
+Main,SP-1,2024,,PRSE2,43.8,C,6,3,,,,,,,
+Main,SP-1,2024,,QUCO2,59.3,C,5,3,,,,,,,
+Main,SP-1,2024,,QURU,56.7,C,6,2,,,,,,,
+Main,SP-2,2024,,ACRU,14.8,S,6,3,,,,,,,
+Main,SP-2,2024,,ACRU,20.3,S,6,3,,,,,,,
+Main,SP-2,2024,,ACRU,18.7,S,6,2,,,,,,,
+Main,SP-2,2024,,ACRU,14.7,I,6,2,,,,,,,
+Main,SP-2,2024,,FAGR,43.5,C,6,2,1,3,2,3,0,0, 
+Main,SP-2,2024,,OSVI,15.4,S,6,2,,,,,,,
+Main,SP-2,2024,,PRSE2,31.8,I,4,4,,,,,,,
+Main,SP-2,2024,,QURU,27.2,S,5,3,,,,,,,
+Main,SP-2,2024,,QURU,59.2,C,6,3,,,,,,,
+Main,SP-3,2024,,ACRU,49.8,C,6,3,,,,,,,
+Main,SP-3,2024,,ACRU,24.2,I,5,3,,,,,,,
+Main,SP-3,2024,,ACSA3,28.1,I,6,2,,,,,,,
+Main,SP-3,2024,,FAGR,45.8,C,6,2,1,3,2,3,0,0,
+Main,SP-3,2024,,FAGR,16.5,S,6,3,1,3,2,3,0,0,
+Main,SP-3,2024,,SNAG,30.4,,,8,,,,,,,
+Main,SP-3,2024,,SNAG,20.9,,,8,,,,,,,
+Main,SP-3,2024,,SNAG,65.9,,,8,,,,,,,
+Main,SV-1,2024,,ACRU,12.8,S,6,2,,,,,,,#2411
+Main,SV-1,2024,,ACSA3,46.8,C,6,3,,,,,,,
+Main,SV-1,2024,,FAGR,58.7,C,6,3,2,3,2,3,2,2,#2425
+Main,SV-1,2024,,FAGR,14,S,4,4,3,1,4,3,3,4,
+Main,SV-1,2024,,QURU,51.5,C,5,3,,,,,,,#2406
+Main,SV-1,2024,,QURU,74.5,C,5,3,,,,,,,#2409
+Main,SV-1,2024,,QURU,58,C,5,3,,,,,,,#2412
+Main,SV-1,2024,,QURU,65.1,C,6,2,,,,,,,#2421
+Main,SV-10,2024,,ACSA3,22.6,S,6,2,,,,,,,#2801
+Main,SV-10,2024,,ACSA3,23,S,6,2,,,,,,,#2821
+Main,SV-10,2024,,ACSA3,29,I,6,2,,,,,,,#2803
+Main,SV-10,2024,,ACSA3,25,S,4,4,,,,,,,#2802
+Main,SV-10,2024,,ACSA3,28.8,S,6,3,,,,,,,
+Main,SV-10,2024,,CARYA,25.2,S,6,2,,,,,,,#2800
+Main,SV-10,2024,,CARYA,48.7,C,6,2,,,,,,,#2798
+Main,SV-10,2024,,CARYA,64.9,D,6,2,,,,,,,Connected to #2798 below DBH.
+Main,SV-10,2024,,CARYA,45.8,C,6,2,,,,,,,
+Main,SV-10,2024,,CARYA,24.4,S,5,3,,,,,,,measured above fallen tree
+Main,SV-10,2024,,CARYA,23.9,I,6,2,,,,,,,measured above fallen tree
+Main,SV-10,2024,,FAGR,3.6,S,4,4,3,3,4,3,3,2,
+Main,SV-10,2024,,LITU,71.7,C,5,4,,,,,,,#2817
+Main,SV-10,2024,,LITU,68.1,D,5,3,,,,,,,#2816
+Main,SV-10,2024,,QURU,81.2,C,6,3,,,,,,,#2797
+Main,SV-11,2024,,ACRU,20.7,S,6,3,,,,,,,
+Main,SV-11,2024,,ACRU,29.6,S,6,2,,,,,,,#2865
+Main,SV-11,2024,,ACRU,47.5,C,6,3,,,,,,,missing tag
+Main,SV-11,2024,,ACSA3,22.4,S,6,2,,,,,,,#2871
+Main,SV-11,2024,,ACSA3,39.8,C,6,2,,,,,,,#2835
+Main,SV-11,2024,,BELE,43.4,C,6,2,,,,,,,#2861
+Main,SV-11,2024,,FAGR,8.1,S,3,5,4,3,4,3,4,2,#2867
+Main,SV-11,2024,,LITU,69.5,C,5,3,,,,,,,
+Main,SV-11,2024,,PRSE2,51.5,D,5,3,,,,,,,#2868
+Main,SV-11,2024,,PRSE2,53.6,C,5,4,,,,,,,#2863
+Main,SV-11,2024,,PRSE2,29.4,I,5,3,,,,,,,#2832
+Main,SV-11,2024,,QURU,70.3,C,5,3,,,,,,,
+Main,SV-11,2024,,SNAG,24.9,,,8,,,,,,,#2872
+Main,SV-11,2024,,SNAG,21.9,,,8,,,,,,,#2864
+Main,SV-11,2024,,SNAG,38.1,,,8,,,,,,,#2838
+Main,SV-11,2024,,TSCA,14.4,S,2,6,,,,,,,"#2860, top broken"
+Main,SV-12,2024,,ACRU,71.8,C,6,3,,,,,,,#2910
+Main,SV-12,2024,,ACRU,67.1,C,6,2,,,,,,,#2885
+Main,SV-12,2024,,ACSA3,19.4,S,6,2,,,,,,,#2906
+Main,SV-12,2024,,ACSA3,24.9,S,6,2,,,,,,,#2901
+Main,SV-12,2024,,ACSA3,17.8,S,6,2,,,,,,,
+Main,SV-12,2024,,ACSA3,18.9,S,5,3,,,,,,,#2886; leaves turning brown
+Main,SV-12,2024,,NYSY,35.1,S,6,2,,,,,,,#2907
+Main,SV-12,2024,,CARYA,34.7,S,6,2,,,,,,,#2905
+Main,SV-12,2024,,FAGR,10.1,S,4,4,4,3,4,3,3,4,
+Main,SV-12,2024,,PRSE2,58.6,C,5,3,,,,,,,#2881
+Main,SV-12,2024,,QURU,57.6,C,6,2,,,,,,,#2887
+Main,SV-12,2024,,QURU,64.4,C,5,3,,,,,,,#2889
+Main,SV-12,2024,,QURU,63.9,C,6,3,,,,,,,
+Main,SV-12,2024,,SNAG,17.8,,,8,,,,,,,#2888
+Main,SV-2,2024,,ACSA3,29.1,I,6,2,,,,,,,
+Main,SV-2,2024,,CARYA,40.7,C,6,2,,,,,,,#2466
+Main,SV-2,2024,,FAGR,12.6,S,4,5,4,3,4,3,4,4,#2468
+Main,SV-2,2024,,FAGR,48.7,C,5,4,3,3,3,3,3,3,#2461
+Main,SV-2,2024,,FAGR,15.5,I,3,6,4,1,5,3,2,4,#2469
+Main,SV-2,2024,,FAGR,78.6,D,6,3,2,1,2,3,3,4,#2475
+Main,SV-2,2024,,FAGR,62.1,D,6,3,3,1,2,3,2,1,#2457
+Main,SV-2,2024,,FAGR,15.5,S,5,4,1,3,4,3,3,4,#2458
+Main,SV-2,2024,,FAGR,14.1,S,2,6,6,3,6,3,2,3,"#2459, almost dead"
+Main,SV-2,2024,,FAGR,19.9,S,6,2,2,1,2,3,3,3,#2462
+Main,SV-2,2024,,SNAG,63.2,,,8,,,,,,,"#2465, broken off at 5 ft height"
+Main,SV-2,2024,,SNAG,36.1,,,8,,,,,,,#2456
+Main,SV-3,2024,,ACSA3,56.7,C,4,4,,,,,,,#2502
+Main,SV-3,2024,,FAGR,38.6,C,5,4,3,1,3,3,3,3,#2501
+Main,SV-3,2024,,FAGR,30.6,I,5,4,4,3,4,3,4,4,#2527
+Main,SV-3,2024,,FAGR,29.4,C,5,4,3,1,4,3,3,4,#2529
+Main,SV-3,2024,,FAGR,23.6,I,5,4,3,2,3,3,4,4,#2532
+Main,SV-3,2024,,FAGR,41.7,C,6,2,2,3,2,3,2,2,#2499
+Main,SV-3,2024,,FAGR,15.6,S,5,4,2,1,4,3,2,2,#2498
+Main,SV-3,2024,,FAGR,28.2,I,6,2,2,3,2,3,3,3,#2493
+Main,SV-3,2024,,FAGR,92.5,C,6,2,1,3,2,3,3,3,
+Main,SV-3,2024,,FAGR,33.5,I,6,3,2,1,3,3,2,4,#2524
+Main,SV-3,2024,,PRSE2,24.9,S,4,5,,,,,,,#2494
+Main,SV-4,2024,,ACSA3,73.8,C,4,4,,,,,,,#2582
+Main,SV-4,2024,,ACSA3,13.5,S,6,2,,,,,,,#2585
+Main,SV-4,2024,,ACSA3,14.9,I,6,2,,,,,,,#2583
+Main,SV-4,2024,,ACSA3,24.7,I,6,2,,,,,,,#581
+Main,SV-4,2024,,ACSA3,24.1,I,6,2,,,,,,,#2576
+Main,SV-4,2024,,ACSA3,24.3,C,6,2,,,,,,,#542
+Main,SV-4,2024,,FAGR,32.3,I,5,4,2,1,3,3,2,4,#2579
+Main,SV-4,2024,,FAGR,18.3,S,5,4,3,1,3,3,1,4,Covered in Vitis
+Main,SV-4,2024,,FAGR,19.2,S,6,3,1,3,3,3,1,1,
+Main,SV-4,2024,,FAGR,25.8,I,4,4,2,1,4,3,2,1,#2586
+Main,SV-4,2024,,FAGR,14.4,S,3,5,3,3,4,3,3,4,#2571 covered in vitis
+Main,SV-4,2024,,QURU,63.1,D,6,2,,,,,,,missing tag
+Main,SV-4,2024,,SNAG,19.9,,,8,,,,,,,#2573
+Main,SV-5,2024,,ACRU,13.2,S,6,2,,,,,,,#2616
+Main,SV-5,2024,,ACRU,20.1,I,6,2,,,,,,,#2615
+Main,SV-5,2024,,ACRU,22,S,6,2,,,,,,,#2610
+Main,SV-5,2024,,ACSA3,49.8,C,6,3,,,,,,,#2605
+Main,SV-5,2024,,CARYA,75.2,D,6,2,,,,,,,
+Main,SV-5,2024,,FAGR,55.5,C,6,3,2,1,2,3,2,2,#2595
+Main,SV-5,2024,,FAGR,17.2,S,5,4,3,3,4,3,3,3,#2613
+Main,SV-5,2024,,FAGR,48.7,C,5,3,3,3,2,3,1,2,#2625
+Main,SV-5,2024,,QURU,72.1,D,6,3,,,,,,,#2611
+Main,SV-5,2024,,SNAG,18.6,,,7,,,,,,,
+Main,SV-6,2024,,ACRU,13.4,S,6,2,,,,,,,
+Main,SV-6,2024,,ACSA3,42.1,C,5,3,,,,,,,#2658
+Main,SV-6,2024,,ACSA3,17.9,I,4,5,,,,,,,#2672
+Main,SV-6,2024,,ACSA3,53.5,C,5,3,,,,,,,#2651
+Main,SV-6,2024,,CARYA,47.7,C,6,2,,,,,,,#2671
+Main,SV-6,2024,,FAGR,39,I,5,4,3,1,3,3,1,2,#2655
+Main,SV-6,2024,,FAGR,16.7,I,4,5,2,3,5,3,3,4,#2653
+Main,SV-6,2024,,FAGR,48.9,I,5,3,1,3,3,3,3,4,"#2664, BBD?"
+Main,SV-6,2024,,SNAG,18.5,,,7,,,,,,,#2657
+Main,SV-6,2024,,SNAG,73.8,,,8,,,,,,,
+Main,SV-7,2024,,ACRU,18.8,S,6,2,,,,,,,#2726
+Main,SV-7,2024,,FAGR,11.8,S,4,5,3,3,4,3,4,3,#2749
+Main,SV-7,2024,,QURU,62.6,C,6,3,,,,,,,#2724
+Main,SV-7,2024,,QURU,68.5,C,6,2,,,,,,,#2722
+Main,SV-7,2024,,QURU,95,D,5,3,,,,,,,#2756
+Main,SV-7,2024,,QURU,67.1,C,6,3,,,,,,,#752
+Main,SV-7,2024,,QURU,92.3,D,5,4,,,,,,,#2747
+Main,SV-7,2024,,QURU,43.2,I,6,2,,,,,,,#2727
+Main,SV-8,2024,,ACRU,14.8,S,6,2,,,,,,,
+Main,SV-8,2024,,ACRU,31.6,C,5,4,,,,,,,
+Main,SV-8,2024,,ACRU,25.9,I,6,2,,,,,,,
+Main,SV-8,2024,,ACRU,16.6,I,6,3,,,,,,,
+Main,SV-8,2024,,ACRU,18,I,6,2,,,,,,,#2692
+Main,SV-8,2024,,ACRU,16.5,I,5,3,,,,,,,#2698
+Main,SV-8,2024,,ACRU,23.2,I,6,2,,,,,,,#2696
+Main,SV-8,2024,,ACRU,51.3,C,6,3,,,,,,,
+Main,SV-8,2024,,CARYA,33.7,C,6,2,,,,,,,
+Main,SV-8,2024,,CARYA,20.4,C,6,2,,,,,,,#2699
+Main,SV-8,2024,,CARYA,33.2,C,6,2,,,,,,,#2700
+Main,SV-8,2024,,CARYA,22.1,C,6,2,,,,,,,attached to #2700
+Main,SV-8,2024,,FAGR,4.6,S,5,4,2,3,4,3,3,4,
+Main,SV-8,2024,,SNAG,114.6,,,7,,,,,,,#2689
+Main,SV-9,2024,,ACRU,34.1,I,6,3,,,,,,,#2790
+Main,SV-9,2024,,CARYA,39.7,C,6,3,,,,,,,#2762
+Main,SV-9,2024,,CARYA,27.1,I,6,1,,,,,,,
+Main,SV-9,2024,,FAGR,23.5,I,5,3,1,3,3,3,2,4,#2767
+Main,SV-9,2024,,FAGR,29.3,S,6,3,,,,,,,#2770
+Main,SV-9,2024,,FAGR,18.2,S,5,4,,,,,,,Connected to #2770 below DBH 
+Main,SV-9,2024,,FAGR,20.8,I,5,4,,,,,,,#2781
+Main,SV-9,2024,,LITU,55.7,C,5,3,,,,,,,#2791
+Main,SV-9,2024,,QURU,79.4,D,5,3,,,,,,,#2768
+Main,SV-9,2024,,SNAG,17.8,,,8,,,,,,,#2765
+Main,SV-9,2024,,SNAG,no data,no data,no data,8,,,,,,,Large SNAG but cannot measure
+Main,WVHA-01,2024,,ACRU,47.2,D,6,3,,,,,,,"#1691, leaves look eaten"
+Main,WVHA-01,2024,,Black Tupelo,22.6,I,5,4,,,,,,,#1690
+Main,WVHA-01,2024,,FAGR,14.4,I,4,4,3,1,4,3,1,2,#1584
+Main,WVHA-01,2024,,FAGR,15.3,I,4,5,2,3,5,3,3,2,#1679
+Main,WVHA-01,2024,,FAGR,15.4,I,4,5,4,3,4,3,3,2,#1680
+Main,WVHA-01,2024,,FAGR,19.2,I,5,4,2,3,4,3,3,4,#1682
+Main,WVHA-01,2024,,NYSY,15.8,S,5,3,,,,,,,#1685
+Main,WVHA-01,2024,,NYSY,16.5,S,6,2,,,,,,,#1583
+Main,WVHA-01,2024,,QURU,20.8,C,6,3,,,,,,,#1692
+Main,WVHA-01,2024,,QURU,17.4,C,6,2,,,,,,,#1681
+Main,WVHA-01,2024,,QURU,14.4,I,4,4,,,,,,,#1683
+Main,WVHA-01,2024,,SAAL5,50.4,D,6,2,,,,,,,#1686
+Main,WVHA-01,2024,,SAAL5,34.2,C,6,3,,,,,,,#1688
+Main,WVHA-01,2024,,SNAG,40.2,,,8,,,,,,,
+Main,WVHA-01,2024,,SNAG,31.7,,,8,,,,,,,#1684
+Main,WVHA-01,2024,,TSCA,34.2,C,6,3,,,,,,,#1689
+Main,WVHA-01,2024,,TSCA,33.4,I,6,2,,,,,,,#1582
+Main,WVHA-02,2024,,ACRU,37.2,C,4,4,,,,,,,"#1003, can't see canopy well"
+Main,WVHA-02,2024,,BELE,42.7,C,6,2,,,,,,,#735
+Main,WVHA-02,2024,,FAGR,80.2,C,5,3,3,1,2,3,2,3,#1007
+Main,WVHA-02,2024,,FAGR,77.1,C,5,3,2,1,2,3,3,4,#1001
+Main,WVHA-02,2024,,FAGR,19.5,I,4,4,2,1,2,3,3,4,#1006
+Main,WVHA-02,2024,,FAGR,15.6,S,5,3,2,1,3,3,3,2,#734
+Main,WVHA-02,2024,,FAGR,27.3,I,4,4,2,1,4,3,2,2,#1009
+Main,WVHA-02,2024,,PRSE2,33.3,D,6,3,,,,,,,

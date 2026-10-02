@@ -1,0 +1,858 @@
+plot_type,plot_id,date,treatment,species,dbh,crown_class,leaf_density,overall_dieback,cover_class_main,main_position,cover_class_fine,fine_position,percent_bld,dominant_symptom_expression,comments
+Main,BP-1,2025,Control,FAGR,38.1,I,6,2,2,1,2,3,0,0,"center tree, old carvings"
+Main,BP-1,2025,Control,FAGR,15.3,S,6,2,1,3,2,3,1,0,
+Main,BP-1,2025,Control,ACSA,18.5,S,5,3,,,,,,,
+Main,BP-1,2025,Control,QURU,54.9,C,5,3,,,,,,,
+Main,BP-1,2025,Control,ACSA,31.9,S,4,4,,,,,,,
+Main,BP-1,2025,Control,QURU,46.2,C,5,3,,,,,,,
+Main,BP-1,2025,Control,QURU,70,C,5,3,,,,,,,
+Main,BP-1,2025,Control,ACSA,22.2,S,6,3,,,,,,,
+Main,BP-1,2025,Control,FAGR,18.4,S,6,2,1,3,2,3,1,0,
+Main,BP-1,2025,Control,ACSA,13.8,S,6,2,,,,,,,
+Main,BP-1,2025,Control,FAGR,26.5,S,6,2,1,3,2,3,1,0,
+Main,BP-1,2025,Control,SNAG,24.3,DEAD,1,8,,,,,,,
+Main,BP-1,2025,Control,ACSA,42.6,S,6,2,,,,,,,
+Main,BP-1,2025,Control,QURU,57.6,C,5,4,,,,,,,
+Main,BP-1,2025,Control,ACSA,20.1,S,6,2,,,,,,,
+Main,BP-1,2025,Control,LITU,76.5,C,5,3,,,,,,,
+Main,BP-2,2025,Control,FAGR,51.3,I,6,2,1,3,2,3,1,0,Center tree
+Main,BP-2,2025,Control,ACSA,19,S,5,3,,,,,,,
+Main,BP-2,2025,Control,LITU,61.5,C,6,3,,,,,,,
+Main,BP-2,2025,Control,ACSA,47.1,I,5,3,,,,,,,
+Main,BP-2,2025,Control,ACSA,42.4,C,6,2,,,,,,,
+Main,BP-2,2025,Control,ACSA,30.4,S,6,2,,,,,,,
+Main,BP-2,2025,Control,PRSE,44.4,C,4,5,,,,,,,
+Main,BP-2,2025,Control,PRSE,38.8,C,4,4,,,,,,,
+Main,BP-2,2025,Control,FAGR,49.1,C,6,2,1,3,2,3,0,0,"lots of necrosis, lots of carvings"
+Main,BP-2,2025,Control,ACRU,15.8,S,6,2,,,,,,,
+Main,BW-1,2025,Control,FAGR,29.1,C,5,4,2,1,4,3,3,3,
+Main,BW-1,2025,Control,ACSA,23.1,I,6,2,,,,,,,
+Main,BW-1,2025,Control,ACSA,67,D,5,3,,,,,,,
+Main,BW-1,2025,Control,ACSA,17.4,S,6,2,,,,,,,
+Main,BW-1,2025,Control,MAAC,23.4,I,6,2,,,,,,,
+Main,BW-1,2025,Control,ACSA,33.2,C,6,2,,,,,,,
+Main,BW-1,2025,Control,ACSA,21.6,S,6,2,,,,,,,
+Main,BW-1,2025,Control,ACSA,27,I,6,2,,,,,,,
+Main,BW-1,2025,Control,ACSA,30.3,C,6,2,,,,,,,
+Main,BW-1,2025,Control,FAGR,16.5,S,2,6,5,3,6,3,4,4,
+Main,BW-1,2025,Control,ACSA,44.7,C,6,2,,,,,,,
+Main,BW-1,2025,Control,ACSA,24.4,C,6,2,,,,,,,
+Main,BW-1,2025,Control,ACSA,22.4,S,6,2,,,,,,,
+Main,BW-2,2025,Control,FAGR,16.4,I,4,4,2,3,4,3,3,2,necrosis present
+Main,BW-2,2025,Control,FAGR,13.7,I,4,4,2,3,4,3,3,4,
+Main,BW-2,2025,Control,ACSA,32.1,C,6,2,,,,,,,
+Main,BW-2,2025,Control,ACSA,27.2,C,6,2,,,,,,,
+Main,BW-2,2025,Control,ACSA,20.9,I,6,2,,,,,,,
+Main,BW-2,2025,Control,FAGR,20.2,C,5,4,2,3,4,3,3,2,
+Main,BW-2,2025,Control,ACSA,26.2,C,6,2,,,,,,,
+Main,BW-2,2025,Control,ACSA,18.4,I,6,2,,,,,,,
+Main,BW-2,2025,Control,FAGR,13.3,S,4,4,2,1,4,3,4,3,
+Main,BW-2,2025,Control,ACSA,17.8,I,6,2,,,,,,,
+Main,BW-2,2025,Control,ACSA,18.9,I,6,2,,,,,,,
+Main,BW-2,2025,Control,FAGR,14.8,S,3,6,4,3,5,3,3,1,
+Main,BW-2,2025,Control,ACSA,14.7,S,6,2,,,,,,,
+Main,BW-2,2025,Control,ACSA,26.4,I,6,2,,,,,,,
+Main,BW-2,2025,Control,ACSA,22.8,C,6,2,,,,,,,
+Main,BW-2,2025,Control,ACSA,14.8,I,6,2,,,,,,,
+Main,C-1,2025,Control,FAGR,38,I,4,5,3,3,4,3,3,3,"#965, covered in vitis, second bud break?"
+Main,C-1,2025,Control,SNAG,16,DEAD,1,7,,,,,,,FAGR
+Main,C-1,2025,Control,QURU,27.4,I,5,3,,,,,,,covered in vitis
+Main,C-1,2025,Control,TSCA,35.8,S,6,3,,,,,,,
+Main,C-1,2025,Control,LITU,91.9,D,6,2,,,,,,,covered in vitis
+Main,C-1,2025,Control,ACSA,14.6,S,6,3,,,,,,,covered in vitis
+Main,C-1,2025,Control,FAGR,15.3,S,4,5,2,3,4,3,3,4,covered in vitis
+Main,C-1,2025,Control,FAGR,24.7,S,2,6,6,3,6,3,4,4,covered in vitis
+Main,C-1,2025,Control,FAGR,68.9,C,5,3,2,1,3,3,1,0,covered in vitis
+Main,C-1,2025,Control,FAGR,26.3,I,4,5,3,1,3,3,4,4,covered in vitis
+Main,C-1,2025,Control,FAGR,16.3,S,5,3,1,3,3,3,4,3,
+Main,C-1,2025,Control,TSCA,18.2,S,5,4,,,,,,,
+Main,C-1,2025,Control,FAGR,33.6,C,6,2,1,3,2,3,2,2,
+Main,C-10,2025,Control,FAGR,56.3,S,5,3,2,1,3,3,4,3,#666
+Main,C-10,2025,Control,ACSA,13.9,S,5,4,,,,,,,
+Main,C-10,2025,Control,ACSA,13.3,S,5,4,,,,,,,
+Main,C-10,2025,Control,CARYA,66.9,C,6,2,,,,,,,
+Main,C-10,2025,Control,ACSA,12.9,S,5,3,,,,,,,
+Main,C-10,2025,Control,SNAG,18.4,DEAD,1,8,,,,,,,
+Main,C-10,2025,Control,PLOC,61.4,D,6,3,,,,,,,Sycamore
+Main,C-10,2025,Control,ACSA,14.3,S,6,2,,,,,,,
+Main,C-10,2025,Control,ACSA,21.8,S,6,2,,,,,,,
+Main,C-10,2025,Control,CARYA,47.8,I,6,2,,,,,,,
+Main,C-10,2025,Control,ACRU,23.7,S,6,2,,,,,,,
+Main,C-11,2025,Control,FAGR,21.3,S,6,2,2,1,2,3,1,1,#407
+Main,C-11,2025,Control,ACSA,66.9,C,6,2,,,,,,,
+Main,C-11,2025,Control,LITU,35.4,S,6,2,,,,,,,missing top
+Main,C-11,2025,Control,ACSA,14,S,6,2,,,,,,,
+Main,C-11,2025,Control,FAGR,86.9,S,6,3,2,3,2,3,1,2,
+Main,C-11,2025,Control,FAGR,23.6,S,5,3,1,3,3,3,3,2,
+Main,C-11,2025,Control,FAGR,45.6,I,5,3,1,3,3,3,3,3,
+Main,C-11,2025,Control,ACSA,28.1,6,2,,,,,,,,
+Main,C-11,2025,Control,ACSA,78.1,C,6,3,,,,,,,
+Main,C-11,2025,Control,SNAG,50.6,DEAD,1,8,,,,,,,
+Main,C-11,2025,Control,ACSA,12.8,S,6,3,,,,,,,
+Main,C-11,2025,Control,LITU,21,S,6,2,,,,,,,
+Main,C-12,2025,Control,FAGR,35.3,I,4,5,2,3,4,3,4,4,#579; covered in vitis
+Main,C-12,2025,Control,PRSE,36.6,C,6,2,,,,,,,vitis on top
+Main,C-12,2025,Control,PRSE,25.9,I,6,2,,,,,,,vitis on top
+Main,C-12,2025,Control,FAGR,18.9,S,4,5,1,1,4,3,3,3,vitis on top
+Main,C-12,2025,Control,PRSE,27.1,I,6,3,,,,,,,
+Main,C-12,2025,Control,SNAG,26,DEAD,1,8,,,,,,,
+Main,C-12,2025,Control,SNAG,20.6,DEAD,1,8,,,,,,,
+Main,C-12,2025,Control,PRSE,45.8,C,6,3,,,,,,,
+Main,C-12,2025,Control,PRSE,50.1,C,6,2,,,,,,,vitis on top
+Main,C-12,2025,Control,SNAG,12.9,DEAD,1,8,,,,,,,probable FAGR
+Main,C-12,2025,Control,PRSE,45.8,C,6,3,,,,,,,vitis on top
+Main,C-12,2025,Control,PRSE,36.7,C,5,3,,,,,,,
+Main,C-12,2025,Control,PRSE,38.4,C,6,3,,,,,,,
+Main,C-12,2025,Control,ACSA,17.5,S,6,2,,,,,,,vitis
+Main,C-12,2025,Control,PRSE,45.9,C,6,2,,,,,,,vitis
+Main,C-12,2025,Control,SNAG,18.4,DEAD,1,8,,,,,,,
+Main,C-12,2025,Control,CARYA,39,C,6,2,,,,,,,vitis
+Main,C-12,2025,Control,FAGR,13.4,S,3,5,1,3,5,3,4,4,
+Main,C-12,2025,Control,PRSE,32.5,I,5,3,,,,,,,vitis
+Main,C-12,2025,Control,PRSE,49.8,C,6,2,,,,,,,
+Main,C-13,2025,Control,FAGR,35.7,I,5,3,1,1,3,3,3,3,#595
+Main,C-13,2025,Control,FAGR,41.1,C,5,3,2,1,3,3,4,4,
+Main,C-13,2025,Control,OSVI,19.6,S,6,2,,,,,,,
+Main,C-13,2025,Control,ACRU,23.8,S,6,2,,,,,,,vitis on tree
+Main,C-13,2025,Control,FAGR,16.4,I,4,5,1,3,5,3,4,2,
+Main,C-13,2025,Control,OSVI,18.7,S,6,3,,,,,,,
+Main,C-13,2025,Control,FAGR,26,I,4,5,1,3,5,3,3,4,second bud break
+Main,C-13,2025,Control,FAGR,39.8,I,4,4,1,3,4,3,3,4,"vitis on top, second bud break"
+Main,C-13,2025,Control,CARYA,60,C,6,2,,,,,,,
+Main,C-13,2025,Control,ACSA,53.7,C,6,2,,,,,,,
+Main,C-14,2025,Control,FAGR,25.3,I,4,5,2,1,4,3,3,3,#451
+Main,C-14,2025,Control,FAGR,37.8,C,5,3,1,3,3,3,2,2,some leaves browning
+Main,C-14,2025,Control,TIAM,36.4,I,6,2,,,,,,,basswood
+Main,C-14,2025,Control,SNAG,23.4,DEAD,1,8,,,,,,,beech
+Main,C-14,2025,Control,FAGR,29.2,C,5,3,3,3,3,3,2,2,
+Main,C-14,2025,Control,FAGR,26.1,C,5,3,2,1,3,3,3,4,
+Main,C-14,2025,Control,FAGR,38.8,C,5,3,2,2,3,3,2,2,
+Main,C-14,2025,Control,FAGR,29.8,C,5,3,2,2,3,3,2,2,
+Main,C-14,2025,Control,FAGR,34.7,C,5,3,1,3,3,3,2,2,
+Main,C-14,2025,Control,CARYA,14.4,S,6,2,,,,,,,
+Main,C-14,2025,Control,QURU,22.4,I,6,3,,,,,,,
+Main,C-14,2025,Control,CARYA,40.9,C,6,2,,,,,,,
+Main,C-14,2025,Control,QUAL,23.6,S,6,2,,,,,,,
+Main,C-14,2025,Control,QURU,33.3,S,6,1,,,,,,,
+Main,C-14,2025,Control,QUAL,71.7,C,6,3,,,,,,,
+Main,C-14,2025,Control,SNAG,32,DEAD,1,8,,,,,,,
+Main,C-14,2025,Control,ACSA,1.2,S,6,2,,,,,,,
+Main,C-14,2025,Control,ACSA,45.3,C,6,2,,,,,,,vitis on top
+Main,C-14,2025,Control,FAGR,30.9,I,6,2,1,3,2,3,2,1,
+Main,C-14,2025,Control,FAGR,22.5,S,4,4,2,1,4,3,2,2,
+Main,C-15,2025,Control,FAGR,20.2,S,4,5,2,1,5,3,4,3,#639
+Main,C-15,2025,Control,SNAG,12.7,DEAD,1,7,,,,,,,FAGR
+Main,C-15,2025,Control,QURU,105.8,C,5,2,,,,,,,
+Main,C-15,2025,Control,ACSA,34.7,I,6,2,,,,,,,
+Main,C-15,2025,Control,QURU,41.3,C,6,2,,,,,,,
+Main,C-15,2025,Control,FAGR,16.7,S,3,5,2,3,5,3,3,3,
+Main,C-15,2025,Control,LITU,75.1,C,5,3,,,,,,,
+Main,C-15,2025,Control,FAGR,27.7,S,5,3,2,1,3,3,3,4,
+Main,C-15,2025,Control,FAGR,24.3,S,4,5,2,3,4,3,2,4,
+Main,C-15,2025,Control,QURU,52,C,6,2,,,,,,,
+Main,C-15,2025,Control,QURU,57.7,C,6,2,,,,,,,
+Main,C-15,2025,Control,FAGR,15.7,S,4,4,2,1,4,3,2,2,
+Main,C-15,2025,Control,QURU,17,S,6,2,,,,,,,
+Main,C-15,2025,Control,QURU,63.4,C,6,3,,,,,,,
+Main,C-15,2025,Control,QURU,62.9,C,6,2,,,,,,,
+Main,C-16,2025,Control,FAGR,26.4,S,6,3,2,1,2,3,3,2,#616
+Main,C-16,2025,Control,QURU,68.9,C,6,2,,,,,,,
+Main,C-16,2025,Control,ACSA,15.9,S,6,2,,,,,,,
+Main,C-16,2025,Control,QURU,43.6,C,6,2,,,,,,,
+Main,C-16,2025,Control,QURU,18.2,I,6,2,,,,,,,
+Main,C-16,2025,Control,ACRU,24.3,S,6,2,,,,,,,
+Main,C-16,2025,Control,ACSA,14.1,S,6,2,,,,,,,
+Main,C-16,2025,Control,QURU,39.6,C,6,2,,,,,,,
+Main,C-16,2025,Control,QURU,60.9,C,6,2,,,,,,,
+Main,C-16,2025,Control,QURU,21.4,S,5,3,,,,,,,
+Main,C-16,2025,Control,QURU,58.3,C,6,2,,,,,,,
+Main,C-16,2025,Control,QURU,30,S,2,1,,,,,,,top broken
+Main,C-16,2025,Control,FAGR,31.4,I,5,4,2,1,4,3,3,4,
+Main,C-16,2025,Control,PRSE,45.3,C,6,2,,,,,,,
+Main,C-16,2025,Control,QURU,50.4,C,5,3,,,,,,,
+Main,C-16,2025,Control,QURU,48,C,6,2,,,,,,,
+Main,C-16,2025,Control,FAGR,17.8,S,4,5,2,3,4,3,4,4,
+Main,C-17,2025,Control,FAGR,32,C,4,5,3,3,5,3,4,4,#606; white dots on trunk
+Main,C-17,2025,Control,OSVI,23.2,I,6,2,,,,,,,
+Main,C-17,2025,Control,ACSA,38.2,I,6,2,,,,,,,vitis vine on trunk
+Main,C-17,2025,Control,FAGR,49.9,C,4,5,3,1,4,3,4,4,white dots on trunk
+Main,C-17,2025,Control,FAGR,54.7,C,5,4,2,3,3,3,4,4,
+Main,C-17,2025,Control,ACSA,28.4,I,6,2,,,,,,,
+Main,C-17,2025,Control,FAGR,42.8,C,5,4,2,3,3,3,4,4,
+Main,C-17,2025,Control,TIAM,17,S,6,2,,,,,,,Basswood
+Main,C-17,2025,Control,SAAL,46.9,C,6,3,,,,,,,
+Main,C-17,2025,Control,QURU,13.1,S,6,2,,,,,,,
+Main,C-17,2025,Control,FAGR,16.4,I,4,4,2,3,3,3,4,4,
+Main,C-17,2025,Control,FAGR,16.3,I,5,2,2,1,2,3,3,3,
+Main,C-17,2025,Control,ACSA,16.4,S,6,2,,,,,,,
+Main,C-17,2025,Control,QURU,99.3,D,6,3,,,,,,,
+Main,C-17,2025,Control,FAGR,13,S,3,5,2,1,4,3,3,3,second bud break
+Main,C-17,2025,Control,ACSA,16.4,S,6,2,,,,,,,
+Main,C-17,2025,Control,FAGR,15.4,S,3,6,2,3,4,3,4,4,
+Main,C-2,2025,Control,SNAG,24.3,DEAD,I,7,,,,,,,center beech #659
+Main,C-2,2025,Control,FAGR,23.7,S,4,5,2,3,4,3,3,4,
+Main,C-2,2025,Control,FAGR,21.1,S,2,6,6,2,6,3,3,3,
+Main,C-2,2025,Control,FAGR,66.7,C,6,2,2,1,2,3,3,2,
+Main,C-2,2025,Control,ACSA,35.8,S,6,2,,,,,,,
+Main,C-2,2025,Control,ROPS,25.4,C,6,2,,,,,,,Black locust
+Main,C-2,2025,Control,ACSA,24.9,I,6,2,,,,,,,
+Main,C-2,2025,Control,ACRU,30.2,S,6,3,,,,,,,
+Main,C-2,2025,Control,ACSA,22.1,I,6,3,,,,,,,
+Main,C-2,2025,Control,ACSA,21,I,6,2,,,,,,,
+Main,C-2,2025,Control,ACSA,26.9,S,6,3,,,,,,,
+Main,C-2,2025,Control,ACSA,22.6,S,6,2,,,,,,,
+Main,C-3,2025,Control,FAGR,51.6,I,4,4,2,3,4,3,2,4,"missing tag, should be #826"
+Main,C-3,2025,Control,ACRU,36.4,I,6,2,,,,,,,
+Main,C-3,2025,Control,ACSA,21.1,S,6,2,,,,,,,
+Main,C-3,2025,Control,ACSA,20.8,S,6,2,,,,,,,
+Main,C-3,2025,Control,TSCA,17.7,S,5,4,,,,,,,
+Main,C-3,2025,Control,TSCA,26.9,S,5,3,,,,,,,
+Main,C-3,2025,Control,FAGR,14.8,I,4,5,2,1,4,3,4,3,
+Main,C-3,2025,Control,TSCA,31.9,S,5,3,,,,,,,
+Main,C-3,2025,Control,TSCA,18.8,S,6,3,,,,,,,
+Main,C-3,2025,Control,TSCA,17.2,S,5,3,,,,,,,
+Main,C-3,2025,Control,TSCA,15.3,S,5,3,,,,,,,
+Main,C-3,2025,Control,FAGR,36,C,5,3,2,3,3,3,3,2,
+Main,C-3,2025,Control,ACSA,14.3,S,6,2,,,,,,,
+Main,C-3,2025,Control,ACSA,13.2,S,6,2,,,,,,,
+Main,C-3,2025,Control,ACSA,17.7,S,6,2,,,,,,,
+Main,C-3,2025,Control,LITU,108.7,D,6,2,,,,,,,
+Main,C-4,2025,Control,FAGR,39.3,C,6,3,1,3,3,3,2,2,#522
+Main,C-4,2025,Control,ACSA,41.8,I,6,2,,,,,,,#523
+Main,C-4,2025,Control,FAGR,24,S,5,3,1,3,3,3,4,3,
+Main,C-4,2025,Control,FAGR,16.6,S,4,4,1,3,4,3,4,3,
+Main,C-4,2025,Control,FAGR,12.7,S,5,3,2,2,3,3,3,4,
+Main,C-4,2025,Control,SNAG,13.1,DEAD,1,8,,,,,,,
+Main,C-4,2025,Control,TSCA,16.3,S,6,2,,,,,,,
+Main,C-4,2025,Control,FAGR,20.4,S,4,5,3,3,4,3,4,2,
+Main,C-4,2025,Control,FAGR,22.3,I,4,5,2,3,4,3,2,0,
+Main,C-4,2025,Control,ACSA,57.3,C,6,2,,,,,,,
+Main,C-5,2025,Control,FAGR,36.7,C,5,3,2,3,3,3,2,2,#697; vitis in canopy
+Main,C-5,2025,Control,ACSA,21.3,S,6,2,,,,,,,
+Main,C-5,2025,Control,ACSA,75.9,C,6,3,,,,,,,
+Main,C-5,2025,Control,TSCA,34,S,5,3,,,,,,,
+Main,C-5,2025,Control,TSCA,78.5,C,5,3,,,,,,,
+Main,C-5,2025,Control,FAGR,53.5,C,6,3,2,2,3,3,3,3,vitis
+Main,C-5,2025,Control,ACSA,19.5,S,6,2,,,,,,,
+Main,C-5,2025,Control,ACSA,12.8,S,6,2,,,,,,,
+Main,C-5,2025,Control,ULRU,17.5,S,6,1,,,,,,,slippery elm
+Main,CC-1,2025,Control,FAGR,51.9,C,6,2,1,3,2,1,1,0,center tree
+Main,CC-1,2025,Control,FAGR,43.1,I,6,2,2,1,2,3,1,0,
+Main,CC-1,2025,Control,QUAL,52.8,C,6,2,,,,,,,#227
+Main,CC-1,2025,Control,QURU,80.4,C,5,4,,,,,,,
+Main,CC-1,2025,Control,FAGR,16.9,S,5,3,2,3,3,3,1,0,top missing
+Main,CC-1,2025,Control,ACSA,15.3,S,6,2,,,,,,,
+Main,CC-1,2025,Control,FAGR,28.6,C,6,2,2,1,2,3,1,0,has woolly aphids
+Main,CC-1,2025,Control,FAGR,37.2,C,5,3,2,3,3,3,1,0,
+Main,CC-1,2025,Control,SNAG,48.8,DEAD,1,8,,,,,,,
+Main,CC-1,2025,Control,ACSA,24.8,S,6,2,,,,,,,
+Main,CC-2,2025,Control,FAGR,37.7,S,6,3,2,1,3,1,2,2,center tree
+Main,CC-2,2025,Control,QURU,85.2,C,6,3,,,,,,,
+Main,CC-2,2025,Control,ACRU,73.2,C,6,2,,,,,,,
+Main,CC-2,2025,Control,SAAL,47.7,I,6,3,,,,,,,#528
+Main,CC-2,2025,Control,LITU,76.9,C,6,2,,,,,,,#5-445
+Main,DL-1,2025,Control,FAGR,39.8,C,5,3,2,2,3,3,0,0,center tree; producing nuts
+Main,DL-1,2025,Control,ACRU,38.7,I,6,3,,,,,,,
+Main,DL-1,2025,Control,PRSE,37.1,I,5,3,,,,,,,
+Main,DL-1,2025,Control,SNAG,27.2,DEAD,1,8,,,,,,,
+Main,DL-1,2025,Control,QURU,61.5,C,6,3,,,,,,,
+Main,DL-1,2025,Control,PRSE,39.4,C,5,3,,,,,,,
+Main,DL-1,2025,Control,QUAL,52.7,C,6,3,,,,,,,
+Main,DL-1,2025,Control,PRSE,31.1,I,5,4,,,,,,,attached
+Main,DL-1,2025,Control,SNAG,24.4,DEAD,1,8,,,,,,,attached
+Main,DL-1,2025,Control,OSVI,14,S,6,3,,,,,,,
+Main,DL-1,2025,Control,SNAG,19.5,DEAD,1,8,,,,,,,attached
+Main,DL-1,2025,Control,ACRU,22.7,S,4,4,,,,,,,attached
+Main,DL-1,2025,Control,ACRU,28.7,S,5,3,,,,,,,"attached, looks bad"
+Main,DL-1,2025,Control,QUAL,30.4,S,6,2,,,,,,,
+Main,DL-2,2025,Control,FAGR,31.2,S,6,3,1,3,3,3,0,0,center tree
+Main,DL-2,2025,Control,QURU,63.7,C,6,3,,,,,,,
+Main,DL-2,2025,Control,SNAG,13.3,DEAD,1,8,,,,,,,attached
+Main,DL-2,2025,Control,ACRU,23.7,S,5,3,,,,,,,attached
+Main,DL-2,2025,Control,PRSE,26.7,S,4,4,,,,,,,
+Main,DL-2,2025,Control,QURU,45,C,6,2,,,,,,,
+Main,DL-2,2025,Control,QURU,76.1,C,6,2,,,,,,,
+Main,DL-2,2025,Control,QURU,70.4,C,6,2,,,,,,,
+Main,DL-2,2025,Control,SNAG,18,DEAD,1,7,,,,,,,
+Main,DL-2,2025,Control,SNAG,28.8,DEAD,1,7,,,,,,,measured low b/c splintered
+Main,DL-2,2025,Control,ACRU,18.6,I,6,2,,,,,,,
+Main,DL-2,2025,Control,QUVE,70.6,C,5,3,,,,,,,
+Main,DL-2,2025,Control,FAGR,17,S,6,2,2,2,2,3,0,0,keep an eye on some curling & necrosis
+Main,GW-1,2025,Control,FAGR,34.2,C,6,2,2,1,3,3,1,4,center tree #1544
+Main,GW-1,2025,Control,FAGR,24,I,4,4,4,1,3,3,1,2,beech blight aphids
+Main,GW-1,2025,Control,FAGR,23.3,I,5,4,3,3,3,3,1,3,#1545
+Main,GW-1,2025,Control,TIAM,44.4,C,5,4,,,,,,,#1518
+Main,GW-1,2025,Control,FAGR,24.3,C,5,4,3,1,3,3,1,3,
+Main,GW-1,2025,Control,FAGR,34.9,C,5,4,4,3,4,3,1,3,#1534
+Main,GW-1,2025,Control,TIAM,40.3,C,5,4,,,,,,,
+Main,GW-1,2025,Control,TIAM,25.3,I,4,5,,,,,,,#1535
+Main,GW-1,2025,Control,FAGR,41.1,C,6,3,3,1,3,1,1,2,#1542
+Main,GW-1,2025,Control,FAGR,21.1,I,5,4,3,1,3,3,2,4,#1520
+Main,GW-1,2025,Control,ULRU,14.4,I,5,4,,,,,,,"#1543, poision ivy"
+Main,HA-1,2025,Control,FAGR,43,I,6,2,1,3,2,3,1,0,
+Main,HA-1,2025,Control,QUAL,66.8,C,6,3,,,,,,,
+Main,HA-1,2025,Control,PRSE,13.6,S,6,2,,,,,,,
+Main,HA-1,2025,Control,ACRU,30,D,6,2,,,,,,,#470; frost rib
+Main,HA-1,2025,Control,FAGR,29.2,S,6,2,1,3,2,3,1,0,carvings
+Main,HA-1,2025,Control,FAGR,14,S,6,3,2,2,2,3,1,0,
+Main,HA-1,2025,Control,QUVE,66.6,C,5,3,,,,,,,check previous years - checked.
+Main,HA-2,2025,Control,FAGR,36.2,I,6,3,1,3,3,3,1,0,center tree
+Main,HA-2,2025,Control,QUAL,76,C,5,4,,,,,,,
+Main,HA-2,2025,Control,ACRU,23.7,I,6,2,,,,,,,
+Main,HA-2,2025,Control,SNAG,57.8,DEAD,1,8,,,,,,,
+Main,HA-2,2025,Control,ACRU,16.8,S,6,2,,,,,,,
+Main,HA-2,2025,Control,SNAG,28.4,DEAD,1,8,,,,,,,
+Main,HA-2,2025,Control,PRSE,42.3,I,5,3,,,,,,,
+Main,HA-2,2025,Control,ACRU,15.1,S,4,5,,,,,,,
+Main,HA-2,2025,Control,QUAL,62.9,C,6,2,,,,,,,
+Main,HA-2,2025,Control,ACRU,20.2,S,5,3,,,,,,,
+Main,HA-3,2025,Control,FAGR,62.7,,,,,,,,2,,"center tree has fallen, root tip up. Still has green leaves producing nuts, yes tree ahd BLD, couldn't do accurate assessement of leaf density & dieback, bottom half leaves looked healthy at 0 but top half looked bad with 4s."
+Main,HA-3,2025,Control,NYSY,26.8,I,6,2,,,,,,,
+Main,HA-3,2025,Control,PRSE,14,I,6,3,,,,,,,
+Main,HA-3,2025,Control,ACRU,21.2,S,5,3,,,,,,,
+Main,HA-3,2025,Control,ACRU,37.5,C,6,3,,,,,,,
+Main,HA-3,2025,Control,NYSY,21,I,6,2,,,,,,,
+Main,HA-3,2025,Control,NYSY,23.3,I,6,2,,,,,,,
+Main,HA-3,2025,Control,ACRU,32.7,C,6,3,,,,,,,
+Main,HA-3,2025,Control,NYSY,21.5,I,6,2,,,,,,,
+Main,HA-3,2025,Control,NYSY,26.7,I,6,2,,,,,,,
+Main,HA-3,2025,Control,NYSY,47.4,C,6,2,,,,,,,
+Main,HA-3,2025,Control,ACRU,23.4,I,6,3,,,,,,,
+Main,HA-3,2025,Control,ACRU,83.6,C,6,3,,,,,,,
+Main,HA-3,2025,Control,SNAG,80.1,DEAD,1,8,,,,,,,
+Main,HH-1,2025,Control,FAGR,57.1,C,6,3,1,3,3,3,3,3,center tree
+Main,HH-1,2025,Control,FAGR,56.2,C,6,3,1,3,3,3,3,3,
+Main,HH-1,2025,Control,ACSA,26.7,S,6,2,,,,,,,
+Main,HH-1,2025,Control,ACSA,44.8,I,6,3,,,,,,,
+Main,HH-1,2025,Control,ACSA,41.5,C,6,2,,,,,,,
+Main,HH-1,2025,Control,ACSA,20.6,S,6,2,,,,,,,
+Main,HH-1,2025,Control,QURU,49.2,I,6,3,,,,,,,
+Main,HH-1,2025,Control,QURU,49.2,I,6,2,,,,,,,
+Main,HR-1,2025,Control,FAGR,61.8,C,5,4,2,1,3,3,2,0,"center, producing nuts"
+Main,HR-1,2025,Control,FAGR,45.1,S,4,5,2,2,4,3,3,2,
+Main,HR-1,2025,Control,FAGR,58.1,C,4,5,2,1,4,3,3,2,
+Main,HR-1,2025,Control,ACSA,38.1,I,6,3,,,,,,,
+Main,HR-1,2025,Control,ACSA,57.7,C,6,2,,,,,,,
+Main,HR-1,2025,Control,ACSA,47.6,C,6,3,,,,,,,
+Main,HR-1,2025,Control,ACSA,20.7,S,5,3,,,,,,,
+Main,HR-1,2025,Control,ACSA,42,C,6,2,,,,,,,
+Main,HR-2,2025,Control,FAGR,50.1,C,5,4,2,1,4,3,2,2,plot center; white dots on trunk that are probably scale
+Main,HR-2,2025,Control,FAGR,59.2,C,5,3,1,3,3,3,3,3,
+Main,HR-2,2025,Control,ACSA,19.5,S,6,2,,,,,,,
+Main,HR-2,2025,Control,ACSA,73.1,C,6,2,,,,,,,
+Main,HR-2,2025,Control,SNAG,29.1,DEAD,1,8,,,,,,,FAGR
+Main,HR-2,2025,Control,ACSA,12.9,S,5,3,,,,,,,
+Main,HR-2,2025,Control,FAGR,47.5,C,5,4,2,3,3,3,4,3,"marbling, producing nuts"
+Main,HR-2,2025,Control,ACSA,13.3,S,6,2,,,,,,,
+Main,HR-2,2025,Control,ACSA,68.1,C,6,3,,,,,,,
+Main,NP-1,2025,Control,FAGR,30,S,6,2,1,3,2,3,1,0,center tree; producing nuts
+Main,NP-1,2025,Control,ULRU,29.1,I,6,3,,,,,,,slippery elm
+Main,NP-1,2025,Control,SNAG,53.1,DEAD,1,8,,,,,,,
+Main,NP-1,2025,Control,ACPL,33.4,I,6,2,,,,,,,norway maple
+Main,NP-1,2025,Control,BELE,26.5,S,6,2,,,,,,,
+Main,NP-1,2025,Control,BELE,31.3,I,6,2,,,,,,,attached
+Main,NP-1,2025,Control,BELE,36.5,I,6,2,,,,,,,attached
+Main,NP-1,2025,Control,TSCA,27.7,S,5,3,,,,,,,
+Main,NP-1,2025,Control,TSCA,19.2,S,4,5,,,,,,,
+Main,NP-1,2025,Control,QUVE,87.1,D,6,3,,,,,,,
+Main,NP-1,2025,Control,TSCA,36.3,S,5,4,,,,,,,
+Main,NP-1,2025,Control,TSCA,37.3,I,5,4,,,,,,,
+Main,NP-2,2025,Control,FAGR,41.4,S,6,2,2,3,2,3,1,0,center tree
+Main,NP-2,2025,Control,QURU,68.3,C,6,3,,,,,,,
+Main,NP-2,2025,Control,QURU,24.4,S,5,4,,,,,,,
+Main,NP-2,2025,Control,QUAL,64.2,C,6,3,,,,,,,
+Main,NP-2,2025,Control,QUAL,61.2,C,6,3,,,,,,,
+Main,NP-2,2025,Control,QUAL,55.6,C,6,2,,,,,,,
+Main,NP-2,2025,Control,QUAL,50.4,I,6,2,,,,,,,
+Main,NP-2,2025,Control,QUVE,70.7,C,5,3,,,,,,,black oak
+Main,NP-2,2025,Control,QURU,47.7,C,6,3,,,,,,,
+Main,NP-2,2025,Control,ACSA,17,S,6,2,,,,,,,
+Main,NP-2,2025,Control,QUAL,40.7,C,6,3,,,,,,,
+Main,NP-2,2025,Control,CACA,12.8,S,6,3,,,,,,,
+Main,NP-3,2025,Control,FAGR,35.7,S,4,5,3,3,4,3,3,3,center tree
+Main,NP-3,2025,Control,ACRU,22.4,S,6,3,,,,,,,
+Main,NP-3,2025,Control,QURU,75.6,C,6,3,,,,,,,
+Main,NP-3,2025,Control,FAGR,47.8,I,4,4,2,3,4,3,4,3,
+Main,NP-3,2025,Control,QUAL,57.7,C,6,3,,,,,,,
+Main,NP-3,2025,Control,SNAG,25.6,DEAD,1,8,,,,,,,
+Main,NP-3,2025,Control,FAGR,39.5,S,3,6,4,3,5,3,4,3,
+Main,PB-1,2025,Control,FAGR,44.5,C,3,4,3,3,4,3,4,4,
+Main,PB-1,2025,Control,FAGR,90.3,D,4,3,2,3,3,3,2,3,#PB41
+Main,PB-1,2025,Control,FAGR,15,S,2,6,6,3,6,3,0,0,second bud break
+Main,PB-1,2025,Control,ACSA,16.4,S,6,2,,,,,,,
+Main,PB-1,2025,Control,FAGR,18.7,I,4,5,1,3,4,3,1,0,second bud break
+Main,PB-1,2025,Control,ACSA,32,I,6,2,,,,,,,
+Main,PB-1,2025,Control,FAGR,25,C,3,4,2,3,4,3,2,3,recent light gap changed crown class
+Main,PB-1,2025,Control,ACSA,23.8,I,6,2,,,,,,,
+Main,PC-1,2025,Control,FAGR,5.9,S,5,3,2,1,3,2,1,0,second bud break
+Main,PC-1,2025,Control,ACSA,26,S,6,2,,,,,,,#468
+Main,PC-1,2025,Control,QURU,91.3,C,6,2,,,,,,,#467
+Main,PC-1,2025,Control,ACSA,26,S,6,2,,,,,,,#462
+Main,PC-1,2025,Control,ACSA,31,S,6,2,,,,,,,#464
+Main,PC-1,2025,Control,QURU,92.1,C,5,3,,,,,,,#484
+Main,PC-1,2025,Control,ACSA,25,S,6,2,,,,,,,
+Main,PC-1,2025,Control,ACSA,30.3,S,6,2,,,,,,,#483
+Main,PC-1,2025,Control,SNAG,27.2,DEAD,1,8,,,,,,,trunk broken off
+Main,PC-10,2025,X-Trt,SNAG,3.1,DEAD,1,7,,,,,,,center beech tree
+Main,PC-10,2025,X-Trt,QURU,78.5,C,6,3,,,,,,,#772
+Main,PC-10,2025,X-Trt,ACRU,28.3,S,6,2,,,,,,,#771
+Main,PC-10,2025,X-Trt,SNAG,20.6,DEAD,1,8,,,,,,,#770
+Main,PC-10,2025,X-Trt,QUAL,65.54,C,6,3,,,,,,,in deer fence
+Main,PC-10,2025,X-Trt,ACSA,32,I,6,2,,,,,,,11.397m away
+Main,PC-10,2025,X-Trt,ACRU,29,I,6,2,,,,,,,
+Main,PC-10,2025,X-Trt,TSCA,19.9,S,5,4,,,,,,,#769
+Main,PC-10,2025,X-Trt,ACRU,41.8,I,6,2,,,,,,,
+Main,PC-11,2025,Lime,FAGR,2,S,3,5,2,1,4,3,3,3,
+Main,PC-11,2025,Lime,QUAL,82.3,C,6,2,,,,,,,#797
+Main,PC-11,2025,Lime,ACSA,37.2,I,6,2,,,,,,,#796
+Main,PC-11,2025,Lime,ACSA,12.9,S,6,2,,,,,,,#803/#03
+Main,PC-11,2025,Lime,QURU,45.2,C,6,2,,,,,,,#804/#04
+Main,PC-11,2025,Lime,QURU,49.5,C,6,2,,,,,,,#805
+Main,PC-11,2025,Lime,FAGR,13.1,S,,4,2,1,4,3,3,2,#806
+Main,PC-11,2025,Lime,QUAL,28.5,I,6,2,,,,,,,#812
+Main,PC-11,2025,Lime,QUMO,13.6,S,6,2,,,,,,,
+Main,PC-11,2025,Lime,QURU,52,C,5,3,,,,,,,#815
+Main,PC-11,2025,Lime,QURU,42.7,C,6,2,,,,,,,#816
+Main,PC-11,2025,Lime,SNAG,31.5,DEAD,1,7,,,,,,,#817/#17
+Main,PC-11,2025,Lime,ACSA,13.5,S,6,2,,,,,,,#794
+Main,PC-11,2025,Lime,QURU,14.1,S,6,2,,,,,,,#795
+Main,PC-12,2025,Control,FAGR,9.4,S,5,3,2,3,3,3,2,1,#854
+Main,PC-12,2025,Control,CARYA,20.5,S,6,2,,,,,,,#853
+Main,PC-12,2025,Control,ACSA,24.1,S,6,2,,,,,,,#846
+Main,PC-12,2025,Control,QURU,52.6,C,6,2,,,,,,,#848
+Main,PC-12,2025,Control,LITU,57.5,D,6,2,,,,,,,#849/340 two tags
+Main,PC-12,2025,Control,LITU,57.6,C,6,3,,,,,,,
+Main,PC-12,2025,Control,ACRU,33.4,I,6,2,,,,,,,#850?
+Main,PC-12,2025,Control,LITU,45.4,I,6,2,,,,,,,#856
+Main,PC-12,2025,Control,ACSA,20.2,S,6,2,,,,,,,#859
+Main,PC-12,2025,Control,QURU,62.3,C,6,2,,,,,,,#843
+Main,PC-12,2025,Control,LITU,70.1,C,5,3,,,,,,,#855
+Main,PC-12,2025,Control,ACSA,13.1,S,6,1,,,,,,,#860
+Main,PC-2,2025,X-Trt,FAGR,12.4,S,3,6,3,3,5,3,3,2,#525
+Main,PC-2,2025,X-Trt,OSVI,13.6,S,6,2,,,,,,,#523
+Main,PC-2,2025,X-Trt,ACSA,23.4,S,6,2,,,,,,,#490
+Main,PC-2,2025,X-Trt,TSCA,21.8,S,6,3,,,,,,,
+Main,PC-2,2025,X-Trt,QURU,74.6,C,6,2,,,,,,,
+Main,PC-2,2025,X-Trt,ACSA,53.2,C,6,2,,,,,,,
+Main,PC-2,2025,X-Trt,ACSA,31.6,I,6,2,,,,,,,
+Main,PC-2,2025,X-Trt,QURU,36.7,I,6,2,,,,,,,
+Main,PC-2,2025,X-Trt,FAGR,12.8,S,4,5,2,1,4,3,3,4,
+Main,PC-2,2025,X-Trt,FAGR,16.8,S,4,5,2,3,4,3,4,3,
+Main,PC-2,2025,X-Trt,QURU,73.3,C,6,3,,,,,,,
+Main,PC-2,2025,X-Trt,PRSE,42.9,C,6,2,,,,,,,
+Main,PC-2,2025,X-Trt,TSCA,13.6,S,6,2,,,,,,,
+Main,PC-2,2025,X-Trt,ACRU,24.4,S,6,3,,,,,,,
+Main,PC-3,2025,TSP,FAGR,7.3,S,5,3,1,3,3,3,2,0,"#981, second bud break"
+Main,PC-3,2025,TSP,QURU,79.3,C,6,2,,,,,,,#562
+Main,PC-3,2025,TSP,QURU,95.3,C,6,2,,,,,,,#580
+Main,PC-3,2025,TSP,ACSA,35.6,I,6,2,,,,,,,#579
+Main,PC-3,2025,TSP,ACSA,48.1,C,6,2,,,,,,,#576
+Main,PC-3,2025,TSP,ACSA,31.1,S,6,2,,,,,,,#566
+Main,PC-3,2025,TSP,QURU,67.9,C,6,3,,,,,,,#565
+Main,PC-3,2025,TSP,ACSA,32.3,S,6,2,,,,,,,
+Main,PC-3,2025,TSP,QURU,64.4,C,6,3,,,,,,,
+Main,PC-3,2025,TSP,ACSA,33.3,S,6,2,,,,,,,
+Main,PC-3,2025,TSP,QURU,73.6,C,6,2,,,,,,,#563
+Main,PC-4,2025,Lime,FAGR,11.8,S,4,5,2,2,3,3,3,3,#533
+Main,PC-4,2025,Lime,SNAG,21.9,DEAD,1,8,,,,,,,#551
+Main,PC-4,2025,Lime,ACSA,25.6,I,6,2,,,,,,,#553
+Main,PC-4,2025,Lime,QURU,102.8,C,6,2,,,,,,,
+Main,PC-4,2025,Lime,ACSA,22.1,I,6,2,,,,,,,#549
+Main,PC-4,2025,Lime,ACSA,43.5,C,6,2,,,,,,,#538
+Main,PC-4,2025,Lime,ACSA,47.2,I,6,2,,,,,,,#534
+Main,PC-4,2025,Lime,ACSA,22.8,I,6,2,,,,,,,#530
+Main,PC-4,2025,Lime,ACSA,26.4,S,6,2,,,,,,,#535
+Main,PC-4,2025,Lime,ACSA,31.2,I,6,2,,,,,,,#528
+Main,PC-4,2025,Lime,QURU,107.3,C,5,3,,,,,,,#556
+Main,PC-5,2025,Lime,FAGR,6.2,S,2,6,4,3,6,3,3,3,possible second bud break
+Main,PC-5,2025,Lime,ACSA,21.7,S,6,2,,,,,,,#607
+Main,PC-5,2025,Lime,ACSA,22.2,I,6,2,,,,,,,#606
+Main,PC-5,2025,Lime,ACSA,55.2,C,5,3,,,,,,,#608
+Main,PC-5,2025,Lime,ACSA,49.5,C,6,2,,,,,,,#599
+Main,PC-5,2025,Lime,ACSA,26.8,S,5,4,,,,,,,#597
+Main,PC-5,2025,Lime,ACSA,18.6,I,6,2,,,,,,,
+Main,PC-5,2025,Lime,QURU,91.4,C,5,3,,,,,,,
+Main,PC-5,2025,Lime,QURU,70.4,D,6,2,,,,,,,#636
+Main,PC-5,2025,Lime,ACSA,33.9,S,6,2,,,,,,,
+Main,PC-5,2025,Lime,ACSA,34.5,I,6,2,,,,,,,
+Main,PC-5,2025,Lime,CARYA,46.8,D,6,2,,,,,,,
+Main,PC-5,2025,Lime,ACSA,52.5,C,6,2,,,,,,,
+Main,PC-6,2025,Control,FAGR,3.7,S,2,6,6,3,6,2,4,4,
+Main,PC-6,2025,Control,QURU,91.5,C,6,3,,,,,,,
+Main,PC-6,2025,Control,ACSA,49.5,C,6,2,,,,,,,connect below DBH
+Main,PC-6,2025,Control,ACSA,20.4,S,6,2,,,,,,,connect below DBH
+Main,PC-6,2025,Control,ACSA,23.6,I,6,2,,,,,,,#64
+Main,PC-6,2025,Control,ACRU,45.5,I,6,3,,,,,,,#621 frost rib?
+Main,PC-6,2025,Control,CARYA,39.6,C,6,2,,,,,,,#640
+Main,PC-6,2025,Control,QURU,66.5,C,6,3,,,,,,,#624
+Main,PC-6,2025,Control,ACSA,20.1,S,6,2,,,,,,,#626
+Main,PC-6,2025,Control,ACSA,22,I,6,2,,,,,,,#639
+Main,PC-6,2025,Control,QURU,70.6,C,6,2,,,,,,,#636
+Main,PC-8,2025,X-Trt,FAGR,5.9,S,5,4,1,3,4,3,2,2,second bud break
+Main,PC-8,2025,X-Trt,ACSA,16.9,S,6,2,,,,,,,#703
+Main,PC-8,2025,X-Trt,ACSA,56.7,C,6,2,,,,,,,
+Main,PC-8,2025,X-Trt,ACRU,40.3,C,6,2,,,,,,,#707
+Main,PC-8,2025,X-Trt,SNAG,51.8,,1,7,,,,,,,
+Main,PC-8,2025,X-Trt,ACSA,18.7,S,6,2,,,,,,,#689
+Main,PC-8,2025,X-Trt,ACSA,30.3,C,6,2,,,,,,,#704
+Main,PC-8,2025,X-Trt,SNAG,45.1,,1,7,,,,,,,#693
+Main,PC-8,2025,X-Trt,ACSA,50.3,C,6,2,,,,,,,#691
+Main,PC-9,2025,TSP,FAGR,9.3,S,3,5,1,3,5,3,4,3,tag no longer on tree
+Main,PC-9,2025,TSP,ACSA,64,C,6,2,,,,,,,#744
+Main,PC-9,2025,TSP,ACSA,21.2,I,6,2,,,,,,,#745
+Main,PC-9,2025,TSP,SNAG,34.8,DEAD,1,7,,,,,,,#747
+Main,PC-9,2025,TSP,ACRU,23.4,I,6,2,,,,,,,
+Main,PC-9,2025,TSP,QUAL,56.5,C,6,2,,,,,,,
+Main,PC-9,2025,TSP,QURU,18.1,S,6,1,,,,,,,
+Main,PC-9,2025,TSP,QURU,24.2,I,6,2,,,,,,,
+Main,PC-9,2025,TSP,QURU,15.2,S,6,2,,,,,,,#738
+Main,PC-9,2025,TSP,ACSA,15.3,S,6,2,,,,,,,#733
+Main,PC-9,2025,TSP,FAGR,13.1,S,5,3,2,1,2,3,3,3,#728; topped off
+Main,PC-9,2025,TSP,ACSA,41.6,C,6,2,,,,,,,#725
+Main,PC-9,2025,TSP,ACSA,31.8,C,6,2,,,,,,,
+Main,RH-1,2025,Control,FAGR,58.7,I,6,3,2,3,3,3,0,0,"Center tree, lots of carvings"
+Main,RH-1,2025,Control,ULRU,23.5,S,6,2,,,,,,,
+Main,RH-1,2025,Control,CARYA,38.3,C,5,3,,,,,,,
+Main,RH-1,2025,Control,FAGR,44.1,C,6,2,1,3,2,3,0,0,herbivory
+Main,RH-1,2025,Control,FAGR,48.7,c,6,2,1,3,2,3,0,0,carvings in trunk
+Main,RH-1,2025,Control,FAGR,30.7,I,5,4,3,2,3,3,1,0,
+Main,RH-1,2025,Control,FAGR,41.1,C,5,3,2,2,3,3,0,0,
+Main,RH-1,2025,Control,FAGR,41.2,C,6,3,2,2,2,3,1,0,
+Main,RH-1,2025,Control,FAGR,23.6,S,3,5,4,2,3,3,0,0,
+Main,RH-1,2025,Control,FAGR,47.4,C,3,6,6,2,6,3,0,0,frost rib and carvings
+Main,RH-1,2025,Control,ACSA,55.4,C,6,3,,,,,,,
+Main,SB-1,2025,Control,FAGR,65.8,C,5,3,2,3,2,3,3,2,"SC1-41, beech nuts"
+Main,SB-1,2025,Control,FAGR,60.6,C,5,3,2,2,3,3,3,3,"SC1-43, BBD?, beech nuts"
+Main,SB-1,2025,Control,FAGR,18,I,6,2,1,3,2,3,3,3,
+Main,SB-1,2025,Control,ACSA,25.3,I,6,2,,,,,,,
+Main,SB-1,2025,Control,FAGR,17.5,S,5,4,3,2,3,3,3,4,bent over
+Main,SB-1,2025,Control,FAGR,28.1,S,5,3,2,1,2,3,3,2,
+Main,SB-1,2025,Control,FAGR,13.2,S,5,3,2,2,3,3,4,3,bent over
+Main,SB-1,2025,Control,SNAG,52,DEAD,1,8,,,,,,,"FAGR, SC1-45"
+Main,SB-1,2025,Control,FAGR,16.9,S,5,3,1,3,3,3,3,3,
+Main,SB-1,2025,Control,ACSA,20.9,I,6,2,,,,,,,
+Main,SB-1A,2025,Control,FAGR,95.1,C,6,2,1,3,2,3,2,0,#922
+Main,SB-1A,2025,Control,FAGR,48.7,I,6,3,2,3,3,3,3,2,#921
+Main,SB-1A,2025,Control,FAGR,15,S,5,3,2,1,3,3,4,4,
+Main,SB-1A,2025,Control,ACSA,87.6,C,6,2,,,,,,,#926
+Main,SB-1A,2025,Control,ACSA,17.5,I,6,2,,,,,,,
+Main,SB-1B,2025,Control,FAGR,90,C,6,3,2,3,2,3,3,2,#931
+Main,SB-1B,2025,Control,SNAG,20.3,DEAD,1,8,,,,,,,
+Main,SB-1B,2025,Control,ACSA,24.2,I,6,2,,,,,,,
+Main,SB-1B,2025,Control,ACSA,21.4,S,6,2,,,,,,,
+Main,SB-1B,2025,Control,FAGR,117,C,6,2,2,3,2,3,1,0,"very rotted base, healthy canopy"
+Main,SB-1B,2025,Control,FAGR,34.8,I,3,4,2,3,3,3,4,4,#933; white dots BBD
+Main,SB-1B,2025,Control,ACSA,33,I,6,2,,,,,,,#932
+Main,SB-1B,2025,Control,ACSA,18,S,6,2,,,,,,,
+Main,SB-1B,2025,Control,ACSA,46.4,I,6,3,,,,,,,
+Main,SB-1B,2025,Control,FAGR,13.3,S,3,5,2,1,5,3,3,2,#929 possible second bud break
+Main,SB-1B,2025,Control,ACSA,15.9,S,6,2,,,,,,,#930
+Main,SB-2,2025,Control,FAGR,56.6,C,5,4,2,1,4,3,3,2,#511; SB1-41
+Main,SB-2,2025,Control,ACSA,83.5,D,6,2,,,,,,,
+Main,SB-2,2025,Control,FAGR,45.7,I,5,4,1,3,4,3,3,3,
+Main,SB-2,2025,Control,ACSA,46.1,I,6,2,,,,,,,
+Main,SB-2,2025,Control,ACSA,19.6,S,6,2,,,,,,,
+Main,SB-2,2025,Control,ACSA,61.2,C,6,2,,,,,,,
+Main,SB-2,2025,Control,ACSA,17.2,S,6,2,,,,,,,weird; frost rib
+Main,SB-2,2025,Control,ACSA,33.8,C,6,2,,,,,,,
+Main,SB-2,2025,Control,ACSA,56.4,C,6,2,,,,,,,
+Main,SB-2,2025,Control,FAGR,19.3,I,4,5,2,3,4,3,4,4,possible second flush
+Main,SB-2A,2025,Control,SNAG,94.2,DEAD,1,7,,,,,,,"center tree died, snapped in half, now there is a large canopy gap"
+Main,SB-2A,2025,Control,ACSA,14.8,I,6,2,,,,,,,#896
+Main,SB-2A,2025,Control,ACSA,18.8,I,6,2,,,,,,,#895
+Main,SB-2A,2025,Control,FAGR,17.1,S,4,4,1,3,4,3,4,3,
+Main,SB-2A,2025,Control,ACSA,15.3,I,6,2,,,,,,,#898
+Main,SB-2A,2025,Control,ACSA,14.6,I,6,2,,,,,,,
+Main,SB-2A,2025,Control,SNAG,15.4,DEAD,1,7,,,,,,,broken by center tree
+Main,SB-2A,2025,Control,SNAG,43.8,DEAD,1,8,,,,,,,
+Main,SB-2A,2025,Control,ACSA,73.3,D,6,2,,,,,,,
+Main,SB-2A,2025,Control,ACSA,18.7,I,6,2,,,,,,,
+Main,SB-2B,2025,Control,FAGR,28.7,C,4,4,2,3,3,3,4,4,#910
+Main,SB-2B,2025,Control,SNAG,63,DEAD,1,8,,,,,,,
+Main,SB-2B,2025,Control,FAGR,68,D,5,2,1,3,2,3,4,4,
+Main,SB-2B,2025,Control,FAGR,65.5,C,4,4,2,3,3,3,4,4,
+Main,SB-2B,2025,Control,SNAG,83.6,DEAD,1,8,,,,,,,
+Main,SB-2B,2025,Control,SNAG,110.3,DEAD,1,8,,,,,,,
+Main,SB-2B,2025,Control,FAGR,33.1,I,4,4,2,1,3,3,4,4,
+Main,SB-2B,2025,Control,FAGR,16.7,I,4,4,1,3,4,3,3,2,
+Main,SB-3A,2025,Control,FAGR,65.2,C,5,4,2,1,4,3,4,4,
+Main,SB-3A,2025,Control,ACSA,17.9,S,6,2,,,,,,,
+Main,SB-3A,2025,Control,ACSA,21,S,6,2,,,,,,,
+Main,SB-3A,2025,Control,LITU,117.2,D,6,2,,,,,,,
+Main,SB-3A,2025,Control,FAGR,18.9,I,4,4,1,3,4,3,3,1,lots of necrosis
+Main,SB-3A,2025,Control,FAGR,18.7,S,4,4,2,1,4,3,4,2,
+Main,SB-3A,2025,Control,SNAG,14,DEAD,1,1,,,,,,,
+Main,SB-3A,2025,Control,FAGR,81.4,C,5,3,1,3,3,3,2,1,second bud break?
+Main,SB-3A,2025,Control,ACSA,15.5,S,6,2,,,,,,,
+Main,SB-3B,2025,Control,FAGR,52.4,I,4,4,3,1,3,3,4,3,#889; lots of white dots on trunk BBD
+Main,SB-3B,2025,Control,FAGR,62.8,C,5,4,2,3,3,3,3,2,#888
+Main,SB-3B,2025,Control,ACSA,15.1,S,6,2,,,,,,,
+Main,SB-3B,2025,Control,ACSA,14.9,S,6,1,,,,,,,
+Main,SB-3B,2025,Control,FAGR,38,I,5,3,1,3,3,3,3,4,
+Main,SB-3B,2025,Control,ACSA,32.2,C,6,2,,,,,,,
+Main,SC-1,2025,Lime,FAGR,34.6,I,5,3,2,1,3,1,2,3,#2
+Main,SC-1,2025,Lime,ACRU,70,I,6,2,,,,,,,
+Main,SC-1,2025,Lime,ACRU,47.7,C,6,2,,,,,,,#1
+Main,SC-1,2025,Lime,QURU,79.2,C,6,2,,,,,,,
+Main,SC-1,2025,Lime,QURU,79.6,C,6,2,,,,,,,
+Main,SC-1,2025,Lime,QURU,64.3,C,5,3,,,,,,,#3
+Main,SC-1,2025,Lime,SNAG,44.3,DEAD,1,8,,,,,,,#14
+Main,SC-1,2025,Lime,ACSA,33.8,I,4,4,,,,,,,#17
+Main,SC-10,2025,TSP,FAGR,4.9,S,3,5,2,3,5,3,4,3,
+Main,SC-10,2025,TSP,ACSA,79.1,C,6,3,,,,,,,#419
+Main,SC-10,2025,TSP,SNAG,26.7,DEAD,1,8,,,,,,,trunk snapped off
+Main,SC-10,2025,TSP,ACSA,12.9,S,6,2,,,,,,,#413
+Main,SC-10,2025,TSP,ACSA,44.7,C,6,2,,,,,,,#444
+Main,SC-10,2025,TSP,ACSA,39.7,C,5,3,,,,,,,
+Main,SC-10,2025,TSP,ACSA,16.5,S,6,1,,,,,,,
+Main,SC-10,2025,TSP,ACRU,79.8,C,6,2,,,,,,,#440
+Main,SC-3,2025,TSP,FAGR,5,S,5,3,2,2,3,3,3,3,
+Main,SC-3,2025,TSP,ACRU,76.3,C,6,2,,,,,,,
+Main,SC-3,2025,TSP,ACRU,98.8,C,6,3,,,,,,,
+Main,SC-3,2025,TSP,ACSA,14.1,S,6,2,,,,,,,
+Main,SC-3,2025,TSP,ACRU,57.7,C,6,2,,,,,,,#152
+Main,SC-3,2025,TSP,ACRU,81,C,6,2,,,,,,,#153
+Main,SC-3,2025,TSP,ACSA,44.4,I,6,2,,,,,,,
+Main,SC-3,2025,TSP,FAGR,15.8,S,5,3,1,3,3,3,3,4,
+Main,SC-3,2025,TSP,ACSA,35.1,I,5,3,,,,,,,
+Main,SC-5,2025,Control,FAGR,11,S,6,2,2,1,2,3,2,2,#243
+Main,SC-5,2025,Control,QURU,66.7,C,6,3,,,,,,,#239
+Main,SC-5,2025,Control,SNAG,30.5,DEAD,1,7,,,,,,,#242
+Main,SC-5,2025,Control,ACRU,62.5,C,6,2,,,,,,,
+Main,SC-5,2025,Control,ACRU,19.4,S,6,2,,,,,,,
+Main,SC-5,2025,Control,ACSA,28.1,I,5,3,,,,,,,
+Main,SC-5,2025,Control,ACRU,36.1,I,5,3,,,,,,,
+Main,SC-5,2025,Control,ACRU,17.6,S,6,2,,,,,,,TOPPED OFF #252
+Main,SC-5,2025,Control,ACRU,17.9,S,6,2,,,,,,,#251
+Main,SC-5,2025,Control,ACRU,13,S,6,2,,,,,,,#250
+Main,SC-5,2025,Control,ACRU,18.6,S,6,2,,,,,,,#248
+Main,SC-5,2025,Control,QURU,79.3,C,6,3,,,,,,,#233
+Main,SC-7,2025,Lime,FAGR,7.2,S,3,4,1,3,4,3,3,3,#335
+Main,SC-7,2025,Lime,ACSA,13.4,S,6,2,,,,,,,#299; bent over
+Main,SC-7,2025,Lime,FAGR,20.6,I,4,5,2,1,4,3,3,3,#298; has vitis in canopy
+Main,SC-7,2025,Lime,FAGR,75.7,D,5,3,1,3,3,3,2,2,#294; vitis in canopy
+Main,SC-7,2025,Lime,FAGR,37.6,C,4,4,1,1,4,3,3,3,#296; vitis in canopy
+Main,SC-7,2025,Lime,FAGR,15.9,S,4,5,2,3,4,3,3,3,#297
+Main,SC-7,2025,Lime,SNAG,28.6,DEAD,1,8,,,,,,,
+Main,SC-7,2025,Lime,ACSA,45.8,C,6,1,,,,,,,
+Main,SC-7,2025,Lime,SNAG,18.3,DEAD,1,8,,,,,,,
+Main,SC-7,2025,Lime,ACSA,43.7,I,6,2,,,,,,,
+Main,SC-7,2025,Lime,PRSE,13.6,I,6,2,,,,,,,#332
+Main,SC-7,2025,Lime,ACSA,41.1,I,6,2,,,,,,,#331; vitis in canopy
+Main,SC-7,2025,Lime,ACSA,53.5,C,6,2,,,,,,,#323; vitis in canopy
+Main,SC-8,2025,X-trt,FAGR,58,C,5,3,2,2,3,3,1,0,"#363, more BLD than 2024"
+Main,SC-8,2025,X-trt,FAGR,50.6,C,5,3,2,2,3,3,0,0,#362
+Main,SC-8,2025,X-trt,ACSA,27.3,S,6,2,,,,,,,#361
+Main,SC-8,2025,X-trt,ACSA,41.8,I,4,4,,,,,,,#360
+Main,SC-8,2025,X-trt,FAGR,56,C,6,2,1,3,2,3,1,0,
+Main,SC-8,2025,X-trt,PRSE,67.7,C,5,3,,,,,,,
+Main,SC-8,2025,X-trt,ACRU,45.7,I,6,2,,,,,,,#364
+Main,SC-8,2025,X-trt,FAGR,39.6,C,6,2,1,3,2,3,1,0,#365
+Main,SC-8,2025,X-trt,SNAG,37.7,DEAD,1,7,,,,,,,#366
+Main,SC-8,2025,X-trt,SNAG,53.4,DEAD,1,8,,,,,,,#342
+Main,SC-8,2025,X-trt,SNAG,22.1,DEAD,1,7,,,,,,,#343
+Main,SC-9,2025,Control,FAGR,12.2,I,4,5,1,3,4,3,3,3,"#935, 2 stemmed, always measured larger stem but it is toped off, 10.4 for small"
+Main,SC-9,2025,Control,ACRU,18.4,I,5,3,,,,,,,
+Main,SC-9,2025,Control,LITU,18.6,I,5,3,,,,,,,covered in vitis
+Main,SC-9,2025,Control,SNAG,45.8,DEAD,1,8,,,,,,,#396
+Main,SC-9,2025,Control,SNAG,42.4,DEAD,1,8,,,,,,,#399
+Main,SC-9,2025,Control,ACRU,25.3,I,6,2,,,,,,,#372
+Main,SC-9,2025,Control,ACSA,36.5,S,6,2,,,,,,,topped off
+Main,SC-9,2025,Control,ACSA,20.3,I,6,2,,,,,,,#374
+Main,SC-9,2025,Control,SNAG,29,DEAD,1,8,,,,,,,#377
+Main,SC-9,2025,Control,ACRU,77.8,D,6,2,,,,,,,#378
+Main,SC-9,2025,Control,SNAG,33.1,DEAD,1,8,,,,,,,#392
+Main,SP-1,2025,Control,FAGR,36,C,6,2,2,2,2,3,0,0,
+Main,SP-1,2025,Control,QURU,57.5,C,6,3,,,,,,,
+Main,SP-1,2025,Control,FAGR,63.4,C,6,3,1,3,3,3,0,0,
+Main,SP-1,2025,Control,PRSE,65.9,C,5,3,,,,,,,
+Main,SP-1,2025,Control,ACRU,24.7,I,6,2,,,,,,,
+Main,SP-1,2025,Control,QUVE,60.4,C,5,3,,,,,,,Black oak?
+Main,SP-1,2025,Control,ACRU,19.9,S,4,4,,,,,,,
+Main,SP-1,2025,Control,SNAG,14.1,DEAD,1,8,,,,,,,maple
+Main,SP-1,2025,Control,PRSE,44.2,C,5,4,,,,,,,
+Main,SP-1,2025,Control,FAGR,26.8,S,6,2,1,3,2,3,0,0,
+Main,SP-1,2025,Control,ACRU,18.8,S,5,3,,,,,,,
+Main,SP-2,2025,Control,FAGR,44.4,C,6,2,2,1,2,3,0,0,
+Main,SP-2,2025,Control,PRSE,31.5,I,5,4,,,,,,,
+Main,SP-2,2025,Control,ACRU,15.3,S,6,2,,,,,,,
+Main,SP-2,2025,Control,ACRU,20.4,S,5,3,,,,,,,
+Main,SP-2,2025,Control,ACRU,18.6,S,6,3,,,,,,,
+Main,SP-2,2025,Control,ACRU,15,S,5,3,,,,,,,
+Main,SP-2,2025,Control,QURU,27.5,S,5,3,,,,,,,
+Main,SP-2,2025,Control,OSVI,15.7,S,6,2,,,,,,,
+Main,SP-2,2025,Control,QURU,59.6,C,5,3,,,,,,,
+Main,SP-3,2025,Control,FAGR,46.6,C,6,2,1,3,2,3,0,0,"Center tree, producing lots of nuts"
+Main,SP-3,2025,Control,SNAG,66.8,DEAD,1,8,,,,,,,
+Main,SP-3,2025,Control,FAGR,16.8,I,6,2,1,3,2,3,0,0,
+Main,SP-3,2025,Control,ACRU,50.4,C,5,3,,,,,,,
+Main,SP-3,2025,Control,ACSA,28.7,I,6,2,,,,,,,
+Main,SP-3,2025,Control,SNAG,30.3,DEAD,1,8,,,,,,,
+Main,SP-3,2025,Control,ACRU,24,I,6,3,,,,,,,
+Main,SV-1,2025,TSP,FAGR,59.4,C,4,5,2,2,4,3,4,3,#2425
+Main,SV-1,2025,TSP,QURU,66,C,6,2,,,,,,,#2421
+Main,SV-1,2025,TSP,FAGR,13.8,S,3,5,2,3,4,3,2,4,
+Main,SV-1,2025,TSP,ACSA,47.5,C,6,2,,,,,,,#2407
+Main,SV-1,2025,TSP,SNAG,13.2,DEAD,7,,,,,,,,#2406
+Main,SV-1,2025,TSP,QURU,52.4,C,6,2,,,,,,,#2409
+Main,SV-1,2025,TSP,QURU,75,C,6,2,,,,,,,#2411
+Main,SV-1,2025,TSP,ACRU,12.9,S,6,3,,,,,,,
+Main,SV-10,2025,Lime,FAGR,3.8,S,4,4,2,1,4,3,3,3,
+Main,SV-10,2025,Lime,ACSA,22.5,S,6,2,,,,,,,#2801
+Main,SV-10,2025,Lime,QURU,83.4,C,5,3,,,,,,,#2797
+Main,SV-10,2025,Lime,ACSA,24,S,6,2,,,,,,,#282
+Main,SV-10,2025,Lime,CARYA,47.8,C,6,3,,,,,,,bitternut
+Main,SV-10,2025,Lime,LITU,73.8,C,6,2,,,,,,,#2817
+Main,SV-10,2025,Lime,LITU,69.8,C,6,2,,,,,,,#2816
+Main,SV-10,2025,Lime,ACSA,29.1,I,6,2,,,,,,,#2803
+Main,SV-10,2025,Lime,ACSA,25.7,S,5,3,,,,,,,#2802
+Main,SV-10,2025,Lime,CARYA,23.5,I,6,2,,,,,,,
+Main,SV-10,2025,Lime,CARYA,26,I,6,2,,,,,,,
+Main,SV-10,2025,Lime,ACSA,29.4,I,6,3,,,,,,,
+Main,SV-10,2025,Lime,CARYA,25.8,S,6,2,,,,,,,bitternut; #2800
+Main,SV-10,2025,Lime,CARYA,66.2,C,6,2,,,,,,,big frost rib; bitternut; connected
+Main,SV-10,2025,Lime,CARYA,50.3,C,6,2,,,,,,,#2798; connected
+Main,SV-11,2025,Control,FAGR,7.6,S,3,6,4,3,5,3,2,0,#2867
+Main,SV-11,2025,Control,PRSE,52.7,C,6,2,,,,,,,
+Main,SV-11,2025,Control,LITU,70.9,C,6,2,,,,,,,
+Main,SV-11,2025,Control,SNAG,25.3,DEAD,1,8,,,,,,,#2872
+Main,SV-11,2025,Control,ACSA,22.4,S,6,2,,,,,,,#2871
+Main,SV-11,2025,Control,ACRU,29.4,S,6,2,,,,,,,#2865
+Main,SV-11,2025,Control,ACRU,20.6,S,6,2,,,,,,,
+Main,SV-11,2025,Control,QURU,73.9,C,6,2,,,,,,,
+Main,SV-11,2025,Control,PRSE,54.7,C,6,2,,,,,,,#2863
+Main,SV-11,2025,Control,BELE,44.3,I,6,2,,,,,,,#2861
+Main,SV-11,2025,Control,TSCA,14.4,S,3,6,,,,,,,#2860; topped
+Main,SV-11,2025,Control,SNAG,38.2,DEAD,1,8,,,,,,,#2838; PRSE
+Main,SV-11,2025,Control,ACRU,48,C,6,2,,,,,,,
+Main,SV-11,2025,Control,ACSA,39.9,I,6,2,,,,,,,#2835
+Main,SV-11,2025,Control,PRSE,29.4,S,4,4,,,,,,,#2832
+Main,SV-12,2025,TSP,FAGR,10,S,3,5,4,3,4,3,3,4,#2884
+Main,SV-12,2025,TSP,NYSY,36.4,I,6,2,,,,,,,#2907
+Main,SV-12,2025,TSP,ACRU,72.3,C,6,2,,,,,,,#2910
+Main,SV-12,2025,TSP,ACSA,18.8,S,6,2,,,,,,,#2906
+Main,SV-12,2025,TSP,CARYA,35.6,S,6,2,,,,,,,#2905; snag bank
+Main,SV-12,2025,TSP,ACSA,25.5,S,6,2,,,,,,,#2901
+Main,SV-12,2025,TSP,SNAG,18,DEAD,1,8,,,,,,,#2888
+Main,SV-12,2025,TSP,QURU,59.1,C,6,2,,,,,,,#2887
+Main,SV-12,2025,TSP,QURU,66.5,C,6,3,,,,,,,#2889
+Main,SV-12,2025,TSP,ACRU,69.3,I,6,2,,,,,,,#2885
+Main,SV-12,2025,TSP,PRSE,59.8,C,6,3,,,,,,,#2881
+Main,SV-12,2025,TSP,ACSA,18.4,S,3,5,,,,,,,#2886
+Main,SV-2,2025,Lime,FAGR,12.4,S,4,5,3,3,3,3,2,2,#2468
+Main,SV-2,2025,Lime,CARYA,41.2,C,6,2,,,,,,,#2466
+Main,SV-2,2025,Lime,FAGR,48.9,C,4,5,1,3,3,3,3,3,#2461
+Main,SV-2,2025,Lime,FAGR,20,S,5,3,2,1,3,3,4,3,#2462
+Main,SV-2,2025,Lime,SNAG,62,DEAD,8,,,,,,,,
+Main,SV-2,2025,Lime,FAGR,15.5,S,2,6,6,2,6,3,4,2,#2469
+Main,SV-2,2025,Lime,FAGR,79.4,C,5,3,2,1,2,3,3,2,#2475
+Main,SV-2,2025,Lime,SNAG,35.7,DEAD,8,,,,,,,,#2456
+Main,SV-2,2025,Lime,FAGR,62,C,5,3,2,1,3,3,3,3,#2457; fruiting
+Main,SV-2,2025,Lime,FAGR,15.2,S,4,5,1,3,3,3,3,3,#2458
+Main,SV-2,2025,Lime,FAGR,13.8,S,3,6,4,3,4,3,4,2,#2459; fruiting
+Main,SV-2,2025,Lime,ACSA,29,I,6,2,,,,,,,
+Main,SV-3,2025,Control,FAGR,38.5,C,5,3,3,1,3,3,2,2,#2501
+Main,SV-3,2025,Control,FAGR,33.6,C,5,3,1,3,3,3,2,1,#2524
+Main,SV-3,2025,Control,FAGR,30.5,C,5,3,2,3,3,3,3,2,#2527
+Main,SV-3,2025,Control,FAGR,29.4,C,5,3,2,1,2,3,3,1,#2529
+Main,SV-3,2025,Control,FAGR,23.7,C,5,3,2,3,3,3,4,2,#2532
+Main,SV-3,2025,Control,FAGR,28.4,C,5,3,1,3,2,3,2,2,2497
+Main,SV-3,2025,Control,PRSE,25,S,6,2,,,,,,,#2494
+Main,SV-3,2025,Control,FAGR,42.2,C,5,3,1,3,2,3,2,2,#2499
+Main,SV-3,2025,Control,ACSA,57.9,C,5,3,,,,,,,#2502
+Main,SV-3,2025,Control,FAGR,14.9,S,4,4,2,1,3,3,3,2,#2498
+Main,SV-3,2025,Control,FAGR,96.6,C,5,3,2,1,2,3,3,2,
+Main,SV-4,2025,X-Trt,FAGR,32.4,C,4,5,2,1,4,3,4,4,#2579
+Main,SV-4,2025,X-Trt,SNAG,19.5,DEAD,8,,,,,,,,"#2573, FAGR?"
+Main,SV-4,2025,X-Trt,FAGR,18.3,S,3,6,2,3,4,3,3,3,covered in vitis
+Main,SV-4,2025,X-Trt,ACSA,74.6,D,5,3,,,,,,,
+Main,SV-4,2025,X-Trt,FAGR,19.3,I,5,3,1,3,2,3,2,0,
+Main,SV-4,2025,X-Trt,ACSA,15.5,I,6,2,,,,,,,#2583
+Main,SV-4,2025,X-Trt,ACSA,14.3,S,6,2,,,,,,,#2585
+Main,SV-4,2025,X-Trt,FAGR,25.9,I,5,3,2,1,3,3,2,2,#2586
+Main,SV-4,2025,X-Trt,ACSA,25.5,C,6,2,,,,,,,#581
+Main,SV-4,2025,X-Trt,ACSA,24.6,C,6,2,,,,,,,#2576; due to beech die back canopy opening and c cover class
+Main,SV-4,2025,X-Trt,ACSA,35.4,C,6,2,,,,,,,#542
+Main,SV-4,2025,X-Trt,FAGR,14.3,S,3,5,2,2,4,3,4,3,#2571; covered in vitis
+Main,SV-4,2025,X-Trt,QURU,66.1,D,6,2,,,,,,,
+Main,SV-5,2025,TSP,FAGR,56,C,6,3,2,1,3,3,3,2,#2595
+Main,SV-5,2025,TSP,ACSA,49.8,C,5,3,,,,,,,#2605
+Main,SV-5,2025,TSP,CARYA,76.3,D,6,3,,,,,,,
+Main,SV-5,2025,TSP,ACRU,20.4,I,6,2,,,,,,,#2615
+Main,SV-5,2025,TSP,FAGR,18.1,S,3,5,2,3,5,3,3,4,#2613
+Main,SV-5,2025,TSP,QURU,72.9,D,6,3,,,,,,,#2611
+Main,SV-5,2025,TSP,ACRU,22.3,S,6,2,,,,,,,#2610
+Main,SV-5,2025,TSP,CARYA,12.7,S,6,2,,,,,,,#2603
+Main,SV-5,2025,TSP,FAGR,48.8,C,5,4,2,1,3,3,3,3,#2625
+Main,SV-5,2025,TSP,SNAG,16.4,DEAD,1,7,,,,,,,
+Main,SV-6,2025,Lime,FAGR,39,I,4,4,2,1,4,3,4,3,#2655; second flush
+Main,SV-6,2025,Lime,SNAG,74.4,DEAD,1,7,,,,,,,
+Main,SV-6,2025,Lime,ACSA,53.6,C,6,3,,,,,,,#2651
+Main,SV-6,2025,Lime,FAGR,16.5,S,4,4,2,1,4,3,4,4,#2653
+Main,SV-6,2025,Lime,SNAG,18.1,DEAD,1,7,,,,,,,#2657; FAGR
+Main,SV-6,2025,Lime,ACSA,42.2,C,5,3,,,,,,,#2658
+Main,SV-6,2025,Lime,FAGR,48.5,I,5,3,1,3,3,3,4,3,#2664
+Main,SV-6,2025,Lime,CARYA,48,C,6,2,,,,,,,#2671
+Main,SV-6,2025,Lime,ACRU,13.8,S,6,2,,,,,,,
+Main,SV-6,2025,Lime,ACSA,18,I,4,5,,,,,,,
+Main,SV-7,2025,Control,FAGR,11.7,S,3,5,2,1,4,3,3,3,#2749
+Main,SV-7,2025,Control,QURU,63.2,C,6,2,,,,,,,#2742
+Main,SV-7,2025,Control,QURU,69.8,C,6,2,,,,,,,#2722
+Main,SV-7,2025,Control,FAGR,12.8,S,4,3,1,3,2,3,2,0,#2723
+Main,SV-7,2025,Control,QURU,90.5,C,6,2,,,,,,,#2756
+Main,SV-7,2025,Control,QURU,69,C,6,3,,,,,,,#752; 2752?
+Main,SV-7,2025,Control,QURU,94.7,C,6,3,,,,,,,#2747
+Main,SV-7,2025,Control,QURU,43.5,I,6,2,,,,,,,#2727
+Main,SV-7,2025,Control,ACRU,18.7,S,6,2,,,,,,,#2726
+Main,SV-8,2025,X-Trt,FAGR,5,S,5,3,1,3,3,3,1,0,
+Main,SV-8,2025,X-Trt,ACRU,15,S,6,2,,,,,,,
+Main,SV-8,2025,X-Trt,CARYA,33.8,C,6,2,,,,,,,shagbark
+Main,SV-8,2025,X-Trt,ACRU,32.5,C,5,3,,,,,,,
+Main,SV-8,2025,X-Trt,ACRU,26.2,I,6,2,,,,,,,#695
+Main,SV-8,2025,X-Trt,ACRU,16.8,I,6,3,,,,,,,
+Main,SV-8,2025,X-Trt,SNAG,119,DEAD,1,8,,,,,,,
+Main,SV-8,2025,X-Trt,ACRU,23.5,I,6,2,,,,,,,#2696
+Main,SV-8,2025,X-Trt,ACRU,18.3,S,6,1,,,,,,,#2692
+Main,SV-8,2025,X-Trt,ACRU,16.7,I,6,3,,,,,,,#2698
+Main,SV-8,2025,X-Trt,CARYA,20.5,S,6,2,,,,,,,#2696
+Main,SV-8,2025,X-Trt,CARYA,33.7,C,6,2,,,,,,,#2700; attached
+Main,SV-8,2025,X-Trt,CARYA,22.2,S,6,2,,,,,,,attached
+Main,SV-8,2025,X-Trt,ACRU,51.5,D,5,3,,,,,,,
+Main,SV-8,2025,X-Trt,ACRU,19.4,S,4,4,,,,,,,
+Main,SV-9,2025,X-Trt,FAGR,24.1,I,5,3,1,3,3,3,3,0,#2767
+Main,SV-9,2025,X-Trt,CARYA,40.1,C,6,2,,,,,,,#2762
+Main,SV-9,2025,X-Trt,LITU,56.9,C,6,2,,,,,,,#2791
+Main,SV-9,2025,X-Trt,ACRU,35.2,I,6,2,,,,,,,#2790
+Main,SV-9,2025,X-Trt,SNAG,73.4,DEAD,1,8,,,,,,,parital trunk
+Main,SV-9,2025,X-Trt,FAGR,21.3,I,4,5,2,1,5,3,3,2,#2781
+Main,SV-9,2025,X-Trt,FAGR,40.3,S,5,3,2,1,3,3,1,0,#2770
+Main,SV-9,2025,X-Trt,QURU,83.2,C,6,3,,,,,,,#2768
+Main,SV-9,2025,X-Trt,SNAG,17.3,DEAD,1,8,,,,,,,PRSE; #2765
+Main,WVHA-01,2025,Control,FAGR,15.3,I,5,3,2,1,3,3,1,0,center tree
+Main,WVHA-01,2025,Control,ACRU,47.4,C,5,3,,,,,,,#1691
+Main,WVHA-01,2025,Control,QURU,21.2,I,6,2,,,,,,,#1692
+Main,WVHA-01,2025,Control,FAGR,15.8,S,5,3,2,1,3,3,3,2,#1680
+Main,WVHA-01,2025,Control,QURU,17.9,I,6,2,,,,,,,#1681
+Main,WVHA-01,2025,Control,FAGR,19.6,S,5,4,2,1,4,3,2,2,#1682
+Main,WVHA-01,2025,Control,QURU,14.4,I,6,3,,,,,,,#1683
+Main,WVHA-01,2025,Control,FAGR,14.3,I,6,3,2,1,2,3,2,2,
+Main,WVHA-01,2025,Control,TSCA,34.6,I,6,2,,,,,,,
+Main,WVHA-01,2025,Control,SNAG,31.7,DEAD,1,8,,,,,,,#1684
+Main,WVHA-01,2025,Control,NYSY,16,S,6,2,,,,,,,#1685
+Main,WVHA-01,2025,Control,SAAL,50.9,C,5,3,,,,,,,#1686
+Main,WVHA-01,2025,Control,SNAG,40.3,DEAD,1,8,,,,,,,
+Main,WVHA-01,2025,Control,ACRU,41.5,C,5,3,,,,,,,#1891
+Main,WVHA-01,2025,Control,FAGR,22.3,S,6,3,2,1,,3,1,1,#1687
+Main,WVHA-01,2025,Control,NYSY,16.7,S,6,2,,,,,,,"#1593, #1574, #1594"
+Main,WVHA-01,2025,Control,SAAL,35,C,6,2,,,,,,,#1688
+Main,WVHA-01,2025,Control,TSCA,35,C,6,2,,,,,,,#1682
+Main,WVHA-01,2025,Control,NYSY,22.7,I,6,3,,,,,,,#1690
+Main,WVHA-01,2025,Control,FAGR,13.9,S,4,4,2,1,4,3,3,2,#1679
+Main,WVHA-02,2025,Control,FAGR,80.3,C,6,2,2,1,2,3,3,2,#1007
+Main,WVHA-02,2025,Control,PRSE,33.5,C,6,2,,,,,,,
+Main,WVHA-02,2025,Control,FAGR,19.9,I,5,3,2,1,3,3,4,3,#1006
+Main,WVHA-02,2025,Control,ACRU,36.2,C,4,4,,,,,,,#1003 - check id from past
+Main,WVHA-02,2025,Control,FAGR,25.7,I,5,4,2,1,4,3,2,2,#1009
+Main,WVHA-02,2025,Control,FAGR,78.1,C,6,3,2,3,2,3,4,2,#1001
+Main,WVHA-02,2025,Control,BELE,41.7,I,6,3,,,,,,,"black birch, #735"
+Main,WVHA-02,2025,Control,FAGR,15.6,I,4,4,2,1,4,1,3,3,#734
