@@ -825,70 +825,141 @@ ggplot(final.data, aes(x = Comp.1, fill = percent_bld_plus_factor))+
 ggplot(final.data, aes(x = Comp.2, fill = percent_bld_plus_factor))+
   geom_histogram(binwidth = 0.1)
 
+percent.BLD.colors = c("#F3DAE4","#E3A5D6","#B46DB3","#7F4B89","#3A1F46")
+
+c("#2F100E", "#6C3322", "#B07159", "#C9A197", "#E0CDCD")
+
 # best observed display plot
 ggplot(final.data, aes(x = cut(dbh,5), fill = percent_bld_plus_factor))+
   geom_bar(position = "fill")+
+  scale_fill_manual(values = percent.BLD.colors)+
   labs(x = "Observed DBH (five bins)", y = "Proportion of trees",
        fill = "Percent BLD") +
-  theme_classic()
+  theme_classic(base_size = 18)
+
+ggsave("./Plots/percent.BLD.DBH.obs.plot.png", width = 8.5, height = 8.5, dpi = 300)
+
 ggplot(final.data, aes(x = cut(living_basal_area_m2,5), fill = percent_bld_plus_factor))+
   geom_bar(position = "fill")+
+  scale_fill_manual(values = percent.BLD.colors)+
   labs(x = "Basal Area per m2 (five bins)", y = "Proportion of trees",
        fill = "Percent BLD") +
-  theme_classic()
+  theme_classic(base_size = 18)
+
+ggsave("./Plots/percent.BLD.BA.obs.plot.png", width = 8.5, height = 8.5, dpi = 300)
+
 ggplot(final.data, aes(x = cut(Comp.1,5), fill = percent_bld_plus_factor))+
   geom_bar(position = "fill")+
+  scale_fill_manual(values = percent.BLD.colors)+
   labs(x = "Comp.1 (five bins)", y = "Proportion of trees",
        fill = "Percent BLD") +
-  theme_classic()
+  theme_classic(base_size = 18)
+
+ggsave("./Plots/percent.BLD.PC1.obs.plot.png", width = 8.5, height = 8.5, dpi = 300)
+
 ggplot(final.data, aes(x = cut(Comp.2,5), fill = percent_bld_plus_factor))+
   geom_bar(position = "fill")+
+  scale_fill_manual(values = percent.BLD.colors)+
   labs(x = "Comp.2 (five bins)", y = "Proportion of trees",
        fill = "Percent BLD") +
-  theme_classic()
+  theme_classic(base_size = 18)
 
-percent_BLD_DBH_predict = ggpredict(percentBLD_mod_all, terms = "dbh_scaled [all]", type = "fixed")
-percent_BLD_BA_predict = ggpredict(percentBLD_mod_all, terms = "living_basal_area_m2_scaled [all]", type = "fixed")
-percent_BLD_Comp1_predict = ggpredict(percentBLD_mod_all, terms = "Comp.1 [all]", type = "fixed")
-percent_BLD_Comp2_predict = ggpredict(percentBLD_mod_all, terms = "Comp.2 [all]", type = "fixed")
+ggsave("./Plots/percent.BLD.PC2.obs.plot.png", width = 8.5, height = 8.5, dpi = 300)
 
-ggplot(percent_BLD_DBH_predict, aes(x = x, y = predicted, color = response.level, group = response.level))+
-  geom_line(linewidth = 1)+
+# make predictions using clmm model b/c clmm2 doesn't work
+percent_BLD_DBH_predict = ggpredict(percentBLD_mod_all_test, terms = "dbh_scaled [all]", type = "fixed")
+percent_BLD_BA_predict = ggpredict(percentBLD_mod_all_test, terms = "living_basal_area_m2_scaled [all]", type = "fixed")
+percent_BLD_Comp1_predict = ggpredict(percentBLD_mod_all_test, terms = "Comp.1 [all]", type = "fixed")
+percent_BLD_Comp2_predict = ggpredict(percentBLD_mod_all_test, terms = "Comp.2 [all]", type = "fixed")
+
+# back transform DBH and total basal area
+# Get the original mean and standard deviation
+dbh_mean = mean(final.data$dbh)
+dbh_sd = sd(final.data$dbh)
+BA_mean = mean(final.data$living_basal_area_m2)
+BA_sd = sd(final.data$living_basal_area_m2)
+
+percent_BLD_DBH_predict$DBH = percent_BLD_DBH_predict$x * dbh_sd + dbh_mean
+percent_BLD_BA_predict$BA = percent_BLD_BA_predict$x * BA_sd + BA_mean
+
+ggplot(percent_BLD_DBH_predict, aes(x = DBH, y = predicted, color = response.level, 
+                                    group = response.level, fill = response.level))+
+  geom_line(linewidth = 2)+
   geom_ribbon(aes(ymin = conf.low, ymax = conf.high),
               alpha = 0.12,color = NA)+
-  labs(x = "Standardized DBH", y = "Predicted Probability",
-       color = "Percent BLD")+
-  theme_classic(base_size = 18)
+  ylim(-0.04,1.00)+
+  scale_color_manual(
+    labels = c("1", "2", "3", "4", "5"),
+    values = percent.BLD.colors) +
+  scale_fill_manual(
+    labels = c("1", "2", "3", "4", "5"),
+    values = percent.BLD.colors)+
+  labs(x = "DBH (cm)", y = "Predicted Probability",
+       color = "Percent BLD", fill = "Percent BLD")+
+  theme_classic(base_size = 18)+
+  theme(legend.position = "none")
 
 ggsave("./Plots/percent.BLD.dbh.plot.png", width = 8.5, height = 8.5, dpi = 300)
+ggsave("./Plots/percent.BLD.dbh.plot.no.legend.png", width = 8.5, height = 8.5, dpi = 300)
 
-ggplot(percent_BLD_BA_predict, aes(x = x, y = predicted, color = response.level, group = response.level))+
-  geom_line(linewidth = 1)+
+ggplot(percent_BLD_BA_predict, aes(x = BA, y = predicted, color = response.level, 
+                                   group = response.level, fill = response.level))+
+  geom_line(linewidth = 2)+
   geom_ribbon(aes(ymin = conf.low, ymax = conf.high),
               alpha = 0.12,color = NA)+
-  labs(x = "Standardized Basal Area per m2", y = "Predicted Probability",
-       color = "Percent BLD")+
-  theme_classic(base_size = 18)
+  ylim(-0.04,1.00)+
+  scale_color_manual(
+    labels = c("1", "2", "3", "4", "5"),
+    values = percent.BLD.colors) +
+  scale_fill_manual(
+    labels = c("1", "2", "3", "4", "5"),
+    values = percent.BLD.colors)+
+  labs(x = "Basal Area per m2", y = "Predicted Probability",
+       color = "Percent BLD", fill = "Percent BLD")+
+  theme_classic(base_size = 18)+
+  theme(legend.position = "none")
 
 ggsave("./Plots/percent.BLD.BA.plot.png", width = 8.5, height = 8.5, dpi = 300)
+ggsave("./Plots/percent.BLD.BA.plot.no.legend.png", width = 8.5, height = 8.5, dpi = 300)
 
-ggplot(percent_BLD_Comp1_predict, aes(x = x, y = predicted, color = response.level, group = response.level))+
-  geom_line(linewidth = 1)+
+ggplot(percent_BLD_Comp1_predict, aes(x = x, y = predicted, color = response.level, 
+                                      group = response.level,fill = response.level))+
+  geom_line(linewidth = 2)+
   geom_ribbon(aes(ymin = conf.low, ymax = conf.high),
               alpha = 0.12,color = NA)+
-  labs(x = "PC 1", y = "Predicted Probability",
-       color = "Percent BLD")+
-  theme_classic(base_size = 18)
+  ylim(-0.04,1.00)+
+  scale_color_manual(
+    labels = c("1", "2", "3", "4", "5"),
+    values = percent.BLD.colors) +
+  scale_fill_manual(
+    labels = c("1", "2", "3", "4", "5"),
+    values = percent.BLD.colors)+
+  labs(x = "Principal Component One (PC1)", y = "Predicted Probability",
+       color = "Percent BLD", fill = "Percent BLD")+
+  theme_classic(base_size = 18)+
+  theme(legend.position = "none")
 
 ggsave("./Plots/percent.BLD.PC1.plot.png", width = 8.5, height = 8.5, dpi = 300)
+ggsave("./Plots/percent.BLD.PC1.plot.no.legend.png", width = 8.5, height = 8.5, dpi = 300)
 
-ggplot(percent_BLD_Comp2_predict, aes(x = x, y = predicted, color = response.level, group = response.level))+
-  geom_line(linewidth = 1)+
+ggplot(percent_BLD_Comp2_predict, aes(x = x, y = predicted, color = response.level, 
+                                      group = response.level, fill = response.level))+
+  geom_line(linewidth = 2)+
   geom_ribbon(aes(ymin = conf.low, ymax = conf.high),
               alpha = 0.12,color = NA)+
-  labs(x = "PC 2", y = "Predicted Probability",
-       color = "Percent BLD")+
-  theme_classic(base_size = 18)
+  ylim(-0.04,1.00)+
+  scale_color_manual(
+    labels = c("1", "2", "3", "4", "5"),
+    values = percent.BLD.colors) +
+  scale_fill_manual(
+    labels = c("1", "2", "3", "4", "5"),
+    values = percent.BLD.colors)+
+  labs(x = "Principal Component Two (PC2)", y = "Predicted Probability",
+       color = "Percent BLD", fill = "Percent BLD")+
+  theme_classic(base_size = 18)+
+  theme(legend.position = "none")
 
 ggsave("./Plots/percent.BLD.PC2.plot.png", width = 8.5, height = 8.5, dpi = 300)
+ggsave("./Plots/percent.BLD.PC2.plot.no.legend.png", width = 8.5, height = 8.5, dpi = 300)
+
 
